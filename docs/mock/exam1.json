@@ -1,7 +1,56 @@
-[
-  {
-    "question": "Which word best means 'anticipate with fear'?",
-    "choices": ["dread", "mount", "equate", "shed"],
-    "answer": "dread"
-  }
-]
+{
+  "title": "Day 1 Vocabulary Mock Exam",
+  "time_limit_minutes": 20,
+  "questions": [
+    {
+      "question": "Which word best means 'to anticipate with fear'?",
+      "choices": ["mount", "dread", "equate", "shed"],
+      "answer": "dread"
+    },
+    {
+      "question": "If someone tries to measure something with great precision, they are most likely to:",
+      "choices": ["calibrate", "pound", "mount", "prowl"],
+      "answer": "calibrate"
+    },
+    {
+      "question": "Which word means 'to praise highly'?",
+      "choices": ["check", "exalt", "compromise", "grudge"],
+      "answer": "exalt"
+    },
+    {
+      "question": "A rule that is an unfair burden would best be described as a(n):",
+      "choices": ["objective", "imposition", "prospect", "exponent"],
+      "answer": "imposition"
+    },
+    {
+      "question": "Which word describes something that appears suddenly?",
+      "choices": ["circulate", "spring up", "replicate", "ascend"],
+      "answer": "spring up"
+    },
+    {
+      "question": "To move quietly while searching for prey is to:",
+      "choices": ["prowl", "mount", "perch", "undulate"],
+      "answer": "prowl"
+    },
+    {
+      "question": "Which word means 'existing as a natural or permanent quality'?",
+      "choices": ["ornate", "stern", "inherent", "ample"],
+      "answer": "inherent"
+    },
+    {
+      "question": "A rapid increase that becomes faster over time is described as:",
+      "choices": ["ample", "objective", "exponential", "intermittent"],
+      "answer": "exponential"
+    },
+    {
+      "question": "Which word best means 'to accept an idea willingly'?",
+      "choices": ["embrace", "check", "besiege", "extract"],
+      "answer": "embrace"
+    },
+    {
+      "question": "If someone weakens their principles in order to agree, they:",
+      "choices": ["replicate", "compromise", "animate", "equate"],
+      "answer": "compromise"
+    }
+  ]
+}
