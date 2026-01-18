@@ -29,6 +29,26 @@
   <button onclick="shuffleCards()">Shuffle</button>
 </div>
 
+<hr>
+
+<h2>Mock Exam</h2>
+
+<button onclick="startExam()">Start Exam</button>
+
+<div id="exam" style="display:none;">
+  <p id="timer"></p>
+  <h3 id="examQuestion"></h3>
+
+  <div id="choices"></div>
+
+  <button onclick="prevQuestion()">Previous</button>
+  <button onclick="nextQuestion()">Next</button>
+  <button onclick="submitExam()">Submit Exam</button>
+</div>
+
+<p id="result"></p>
+
 <script src="script.js"></script>
 </body>
 </html>
+
