@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Verb Flashcards</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Verb Flashcards</h1>
+
+<select id="daySelect">
+  <option value="day1">Day 1</option>
+  <option value="day2">Day 2</option>
+</select>
+
+<div id="card" class="card">
+  <h2 id="word">Word</h2>
+  <p id="pos"></p>
+  <p id="meaning"></p>
+  <p id="definition" class="hidden"></p>
+  <p id="example" class="hidden"></p>
+</div>
+
+<div class="buttons">
+  <button onclick="flipCard()">Flip</button>
+  <button onclick="prevCard()">Prev</button>
+  <button onclick="nextCard()">Next</button>
+  <button onclick="shuffleCards()">Shuffle</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
