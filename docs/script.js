@@ -86,17 +86,18 @@ function showExamQuestion() {
   document.getElementById("examQuestion").textContent =
     `Q${examIndex + 1}. ${q.question}`;
 
+  updateScoreBoard();
+
   const choicesDiv = document.getElementById("choices");
   choicesDiv.innerHTML = "";
 
   q.choices.forEach(choice => {
     const btn = document.createElement("button");
     btn.textContent = choice;
-    btn.style.display = "block";
-    btn.style.margin = "5px auto";
+    btn.className = "choice-btn";
 
     if (userAnswers[examIndex] === choice) {
-      btn.style.background = "#cce5ff";
+      btn.classList.add("selected");
     }
 
     btn.onclick = () => {
@@ -106,6 +107,20 @@ function showExamQuestion() {
 
     choicesDiv.appendChild(btn);
   });
+}
+
+function updateScoreBoard() {
+  let answered = Object.keys(userAnswers).length;
+  let correct = 0;
+
+  for (let i in userAnswers) {
+    if (userAnswers[i] === examData.questions[i].answer) {
+      correct++;
+    }
+  }
+
+  document.getElementById("scoreBoard").textContent =
+    `Answered: ${answered} / ${examData.questions.length} | Correct so far: ${correct}`;
 }
 
 function nextQuestion() {
@@ -137,7 +152,11 @@ function submitExam() {
 
 document.getElementById("daySelect").addEventListener("change", e => {
   loadDay(e.target.value);
+
+document.getElementById("result").innerHTML =
+  `<strong>Final Score:</strong> ${score} / ${examData.questions.length}`;
 });
 
 loadDay("day1");
+
 
