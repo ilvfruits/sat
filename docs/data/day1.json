@@ -9,7 +9,7 @@
   {
     "word": "unseemly",
     "pos": "adj.",
-    "meaning_cn": "（行为，举止）不得体的",
+    "meaning_cn": "不得体的",
     "definition": "(of behaviour or actions) not proper or appropriate",
     "example": "He spent unseemly amounts of money on himself."
   },
@@ -30,7 +30,7 @@
   {
     "word": "frantic",
     "pos": "adj.",
-    "meaning_cn": "（因恐惧、焦虑等而）发狂似的",
+    "meaning_cn": "发狂似的",
     "definition": "wild or distraught with fear, anxiety, or other emotion",
     "example": "She was frantic with worry."
   },
@@ -43,15 +43,15 @@
   },
   {
     "word": "objective",
-    "pos": "adj. / n.",
+    "pos": "adj. & n.",
     "meaning_cn": "客观存在的；目标",
-    "definition": "not dependent on the mind for existence; actual / something that you are trying to achieve",
-    "example": "The main objective of this meeting is to give more information on our plans."
+    "definition": "1. not dependent on the mind for existence; actual 2. something you are trying to achieve",
+    "example": "Our reveries are shaped by our transactions with the objective world. The main objective is to give more information."
   },
   {
     "word": "equate",
     "pos": "vt.",
-    "meaning_cn": "视…等同于",
+    "meaning_cn": "视...等同于",
     "definition": "consider one thing to be the same as or equivalent to another",
     "example": "Some parents equate education with exam success."
   },
@@ -66,7 +66,7 @@
     "word": "mount",
     "pos": "vt.",
     "meaning_cn": "登上",
-    "definition": "climb up a rising surface",
+    "definition": "climb up stairs, a hill, or other rising surface",
     "example": "He mounted the stairs."
   },
   {
@@ -79,20 +79,20 @@
   {
     "word": "convene",
     "pos": "vt. & vi.",
-    "meaning_cn": "（召集）开会",
+    "meaning_cn": "召集开会",
     "definition": "bring together a group of people for a meeting",
-    "example": "The prime minister convened his cabinet to discuss the matter."
+    "example": "The prime minister convened his cabinet."
   },
   {
     "word": "prospect",
-    "pos": "vi. / n.",
+    "pos": "vi. & n.",
     "meaning_cn": "勘探；可能性；前景",
-    "definition": "search for mineral deposits; possibility that something will happen; future outlook",
-    "example": "There is no immediate prospect of peace."
+    "definition": "search for mineral deposits; possibility; future outlook",
+    "example": "The company is prospecting for gold. There is no immediate prospect of peace."
   },
   {
     "word": "spring up",
-    "pos": "phrasal verb",
+    "pos": "vi.",
     "meaning_cn": "突然出现，迅速成长",
     "definition": "to grow or appear suddenly",
     "example": "New towns are springing up to house the increasing population."
@@ -115,7 +115,7 @@
     "word": "celestial",
     "pos": "adj.",
     "meaning_cn": "天空的，外太空的",
-    "definition": "relating to the sky or outer space",
+    "definition": "positioned in or relating to the sky or outer space",
     "example": "The moon is a celestial body."
   },
   {
@@ -123,55 +123,55 @@
     "pos": "vt.",
     "meaning_cn": "使受辱，使羞愧",
     "definition": "cause someone to feel embarrassed or humiliated",
-    "example": "She was mortified to see her wrinkles in the mirror."
+    "example": "She was mortified to see her wrinkles."
   },
   {
     "word": "prowl",
     "pos": "vt.",
     "meaning_cn": "潜行，搜寻",
-    "definition": "move about in search of prey",
+    "definition": "move about in search of or as if in search of prey",
     "example": "Black bears prowl the canyons."
   },
   {
     "word": "slumber",
     "pos": "vi.",
     "meaning_cn": "沉睡；不活动",
-    "definition": "sleep or lie dormant",
+    "definition": "sleep; to lie dormant or latent",
     "example": "Sleeping Beauty slumbered in her forest castle."
   },
   {
     "word": "grudge",
     "pos": "vt.",
     "meaning_cn": "嫉恨，妒忌",
-    "definition": "feel angry or resentful toward someone",
-    "example": "I don't grudge her the opportunities she has been given."
+    "definition": "to dislike or feel angry toward someone for something",
+    "example": "I don't grudge her the opportunities."
   },
   {
     "word": "malice",
     "pos": "n.",
     "meaning_cn": "恶意；怨恨",
-    "definition": "the intention or desire to do evil",
+    "definition": "the intention or desire to do evil; ill will",
     "example": "I bear no malice towards anybody."
   },
   {
     "word": "dreary",
     "pos": "adj.",
-    "meaning_cn": "沉闷枯燥的；令人沮丧的",
-    "definition": "dull, bleak, and depressing",
-    "example": "I hate the dreary round of working and sleeping."
+    "meaning_cn": "沉闷的；阴郁的；令人沮丧的",
+    "definition": "dull, bleak, and lifeless; depressing",
+    "example": "I hate the dreary round of working."
   },
   {
     "word": "embrace",
     "pos": "vt.",
-    "meaning_cn": "欣然接受",
-    "definition": "accept or support willingly",
+    "meaning_cn": "欣然接受（信仰、理论、改变）",
+    "definition": "accept or support willingly and enthusiastically",
     "example": "Much of the population quickly embraced Islam."
   },
   {
     "word": "adept",
     "pos": "adj.",
     "meaning_cn": "熟练的，擅长的",
-    "definition": "very skilled at something",
+    "definition": "very skilled or proficient at something",
     "example": "He was adept at using computers."
   },
   {
@@ -179,132 +179,125 @@
     "pos": "vi.",
     "meaning_cn": "波动；起伏",
     "definition": "move with a smooth wave-like motion",
-    "example": "Her body undulated to the rhythm of the music."
+    "example": "Her body undulated to the thumping rhythm of the music."
   },
   {
     "word": "ornate",
     "pos": "adj.",
     "meaning_cn": "装饰复杂华丽的",
-    "definition": "decorated with complex patterns",
+    "definition": "made in an intricate shape or decorated with complex patterns",
     "example": "She doesn't like ornate jewelry."
   },
   {
     "word": "stern",
     "pos": "adj.",
     "meaning_cn": "严厉的，认真的",
-    "definition": "serious and unrelenting",
+    "definition": "serious and unrelenting, especially in authority",
     "example": "A smile transformed his stern face."
   },
   {
     "word": "exalt",
     "pos": "vt.",
     "meaning_cn": "颂扬，高度赞美",
-    "definition": "praise highly",
-    "example": "The essay exalts the beauty of the countryside."
+    "definition": "to praise someone or something highly",
+    "example": "The essay exalts the simple beauty of the country."
   },
   {
     "word": "check",
     "pos": "vt.",
     "meaning_cn": "制止；控制",
-    "definition": "stop or slow the progress of something undesirable",
+    "definition": "stop or slow down the progress of something undesirable",
     "example": "Efforts were made to check the disease."
   },
   {
     "word": "shed",
     "pos": "vt.",
-    "meaning_cn": "流；蜕；掉",
-    "definition": "produce tears, blood, or lose leaves",
-    "example": "The trees shed their leaves in autumn."
-  },
-  {
-    "word": "replicate",
-    "pos": "vt.",
-    "meaning_cn": "复制",
-    "definition": "make an exact copy",
-    "example": "It might be impractical to replicate Eastern culture in the west."
+    "meaning_cn": "流眼泪、血；蜕皮；掉叶子",
+    "definition": "to produce tears, light, blood, etc.",
+    "example": "She shed a few tears at her daughter's wedding. The trees shed their leaves in autumn."
   },
   {
     "word": "circulate",
     "pos": "vt. & vi.",
-    "meaning_cn": "（使）循环流通",
-    "definition": "move continuously through a system",
+    "meaning_cn": "使循环流通",
+    "definition": "move or cause to move continuously through a closed system",
     "example": "The fan circulates hot air around the oven."
   },
   {
     "word": "ample",
     "pos": "adj.",
     "meaning_cn": "丰富的",
-    "definition": "more than enough",
+    "definition": "enough or more than enough; plentiful",
     "example": "There is ample time for discussion."
   },
   {
     "word": "exponent",
     "pos": "n.",
     "meaning_cn": "倡导者，拥护者",
-    "definition": "a person who supports an idea",
-    "example": "She is a leading exponent of the theory."
+    "definition": "a person who believes in and tries to explain an idea",
+    "example": "He is an exponent of vegetarianism."
   },
   {
     "word": "exponential",
     "pos": "adj.",
-    "meaning_cn": "呈几何增长的",
-    "definition": "increasing very rapidly",
-    "example": "There has been an exponential increase in population."
+    "meaning_cn": "越来越快的，呈几何数增长的",
+    "definition": "very fast; increasingly rapid",
+    "example": "There has been an exponential increase in world population."
   },
   {
     "word": "besiege",
     "pos": "vt.",
     "meaning_cn": "围攻；包围",
-    "definition": "surround a place to capture it",
-    "example": "The town was besieged for two months."
+    "definition": "surround a place with armed forces to capture it",
+    "example": "The town had been besieged for two months."
   },
   {
     "word": "imposing",
     "pos": "adj.",
     "meaning_cn": "雄伟的，壮丽的",
-    "definition": "grand and impressive",
-    "example": "He is an imposing man."
+    "definition": "grand and impressive in appearance",
+    "example": "He's an imposing man with a powerful voice."
   },
   {
     "word": "animate",
     "pos": "vt.",
-    "meaning_cn": "使有活力",
-    "definition": "make lively or excited",
+    "meaning_cn": "使有活力，生动",
+    "definition": "to make someone or something lively or excited",
     "example": "A smile animated his face."
   },
   {
     "word": "perch",
-    "pos": "vi. / n.",
-    "meaning_cn": "栖息；高处",
-    "definition": "rest on a high place",
-    "example": "A bird perched on the branch."
+    "pos": "vi. & n.",
+    "meaning_cn": "飞落，栖息；栖息处；高处",
+    "definition": "alight or rest on something; a place where a bird rests; a high seat",
+    "example": "A herring gull perched on the rails."
   },
   {
     "word": "insecticide",
     "pos": "n.",
     "meaning_cn": "杀虫剂",
-    "definition": "a substance used to kill insects",
+    "definition": "a substance used for killing insects",
     "example": "Many pests are resistant to the insecticide."
   },
   {
     "word": "intermittent",
     "pos": "adj.",
-    "meaning_cn": "间歇的",
-    "definition": "occurring at irregular intervals",
-    "example": "She made intermittent appearances."
+    "meaning_cn": "间歇的，断断续续的",
+    "definition": "occurring at irregular intervals; not continuous",
+    "example": "Although she made intermittent movie appearances."
   },
   {
     "word": "inherent",
     "pos": "adj.",
     "meaning_cn": "内在的，固有的",
-    "definition": "existing as a permanent quality",
-    "example": "Mountaineering has inherent dangers."
+    "definition": "existing in something as a permanent or characteristic attribute",
+    "example": "Any form of mountaineering has its inherent dangers."
   },
   {
     "word": "compromise",
     "pos": "vt.",
     "meaning_cn": "危及；妥协",
-    "definition": "weaken principles or put at risk",
-    "example": "Don't compromise your principles."
+    "definition": "to bring into danger or allow principles to be lowered",
+    "example": "Defeat would compromise their chances. Don't compromise your beliefs."
   }
 ]
