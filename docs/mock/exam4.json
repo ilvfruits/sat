@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Which word best means 'showing a lack of courage or confidence'?",
+    "choices": ["timid", "daring", "complacent", "charismatic"],
+    "answer": "timid"
+  },
+  {
+    "question": "Which word best means 'originating naturally in a particular place'?",
+    "choices": ["indigenous", "affluent", "vulgar", "melancholy"],
+    "answer": "indigenous"
+  },
+  {
+    "question": "Which word best means 'having a great deal of money'?",
+    "choices": ["affluent", "paucity", "customary", "reckon"],
+    "answer": "affluent"
+  },
+  {
+    "question": "Which word best means 'lacking sophistication or good taste'?",
+    "choices": ["vulgar", "bizarre", "diligence", "ritual"],
+    "answer": "vulgar"
+  },
+  {
+    "question": "Which word best means 'disappear suddenly and completely'?",
+    "choices": ["vanish", "retreat", "strike", "accelerate"],
+    "answer": "vanish"
+  },
+  {
+    "question": "Which word best means 'restore friendly relations between'?",
+    "choices": ["reconcile", "contain", "wield", "dismiss"],
+    "answer": "reconcile"
+  },
+  {
+    "question": "Which word best means 'powerfully attract or charm'?",
+    "choices": ["allure", "gloomy", "awe", "mischief"],
+    "answer": "allure"
+  },
+  {
+    "question": "Which word best means 'a small booklet about a single subject'?",
+    "choices": ["pamphlet", "notch", "configuration", "precedent"],
+    "answer": "pamphlet"
+  },
+  {
+    "question": "Which word best means 'to make something stronger'?",
+    "choices": ["cement", "extrapolate", "shuffle", "rally"],
+    "answer": "cement"
+  },
+  {
+    "question": "Which word best means 'extend the application of a method to an unknown situation'?",
+    "choices": ["extrapolate", "reckon", "divine", "proclaim"],
+    "answer": "extrapolate"
+  },
+  {
+    "question": "Which word best means 'an indentation on an edge or surface'?",
+    "choices": ["notch", "telltale", "cause", "daring"],
+    "answer": "notch"
+  },
+  {
+    "question": "Which phrase best means 'to finally be in a particular situation'?",
+    "choices": ["end up", "in line with", "occur to somebody", "strike as"],
+    "answer": "end up"
+  },
+  {
+    "question": "Which word best means 'very strange or unusual'?",
+    "choices": ["bizarre", "impenetrable", "customary", "gloomy"],
+    "answer": "bizarre"
+  },
+  {
+    "question": "Which word best means 'demonstrate or indicate clearly'?",
+    "choices": ["proclaim", "contain", "shuffle", "reckon"],
+    "answer": "proclaim"
+  },
+  {
+    "question": "Which word best means 'treat as unworthy of serious consideration'?",
+    "choices": ["dismiss", "wield", "divine", "retreat"],
+    "answer": "dismiss"
+  },
+  {
+    "question": "Which word best means 'to have a lot of influence or power'?",
+    "choices": ["wield", "contain", "accelerate", "rally"],
+    "answer": "wield"
+  },
+  {
+    "question": "Which word best means 'to keep something harmful within limits'?",
+    "choices": ["contain", "cement", "outcompete", "dismiss"],
+    "answer": "contain"
+  },
+  {
+    "question": "Which word best means 'to consider or have the opinion that'?",
+    "choices": ["reckon", "extrapolate", "proclaim", "shuffle"],
+    "answer": "reckon"
+  },
+  {
+    "question": "Which word best means 'impossible to understand'?",
+    "choices": ["impenetrable", "bizarre", "melancholy", "charismatic"],
+    "answer": "impenetrable"
+  },
+  {
+    "question": "Which word best means 'to guess something'?",
+    "choices": ["divine", "reckon", "proclaim", "strike"],
+    "answer": "divine"
+  },
+  {
+    "question": "Which word best means 'to move similar things from one position to another'?",
+    "choices": ["shuffle", "wield", "contain", "accelerate"],
+    "answer": "shuffle"
+  },
+  {
+    "question": "Which word best means 'a feeling of great respect mixed with fear'?",
+    "choices": ["awe", "mischief", "diligence", "paucity"],
+    "answer": "awe"
+  },
+  {
+    "question": "Which word best means 'a set of fixed actions performed regularly'?",
+    "choices": ["ritual", "configuration", "pamphlet", "precedent"],
+    "answer": "ritual"
+  },
+  {
+    "question": "Which word best means 'the fact that there is too little of something'?",
+    "choices": ["paucity", "affluence", "diligence", "mischief"],
+    "answer": "paucity"
+  },
+  {
+    "question": "Which word best means 'revealing or betraying something'?",
+    "choices": ["telltale", "customary", "readily", "gloomy"],
+    "answer": "telltale"
+  },
+  {
+    "question": "Which word best means 'sad, gloomy, or depressed'?",
+    "choices": ["melancholy", "daring", "complacent", "timid"],
+    "answer": "melancholy"
+  },
+  {
+    "question": "Which phrase best means 'to come into one's mind'?",
+    "choices": ["occur to somebody", "in line with", "end up", "strike as"],
+    "answer": "occur to somebody"
+  },
+  {
+    "question": "Which word best means 'change one's decisions due to criticism'?",
+    "choices": ["retreat", "rally", "accelerate", "contain"],
+    "answer": "retreat"
+  },
+  {
+    "question": "Which word best means 'cause someone to have a particular impression'?",
+    "choices": ["strike", "reckon", "proclaim", "divine"],
+    "answer": "strike"
+  },
+  {
+    "question": "Which word best means 'feeling distressed or pessimistic'?",
+    "choices": ["gloomy", "melancholy", "complacent", "daring"],
+    "answer": "gloomy"
+  },
+  {
+    "question": "Which word best means 'without hesitation or reluctance'?",
+    "choices": ["readily", "customary", "timid", "vulgar"],
+    "answer": "readily"
+  },
+  {
+    "question": "Which word best means 'according to a person's habitual practice'?",
+    "choices": ["customary", "bizarre", "impenetrable", "affluent"],
+    "answer": "customary"
+  },
+  {
+    "question": "Which word best means 'surpass someone in competition'?",
+    "choices": ["outcompete", "rally", "accelerate", "wield"],
+    "answer": "outcompete"
+  },
+  {
+    "question": "Which phrase best means 'similar to'?",
+    "choices": ["in line with", "end up", "occur to somebody", "strike as"],
+    "answer": "in line with"
+  },
+  {
+    "question": "Which word best means 'an arrangement of parts in a particular form'?",
+    "choices": ["configuration", "pamphlet", "notch", "ritual"],
+    "answer": "configuration"
+  },
+  {
+    "question": "Which word best means 'exercising a compelling charm'?",
+    "choices": ["charismatic", "vulgar", "timid", "gloomy"],
+    "answer": "charismatic"
+  },
+  {
+    "question": "Which word best means 'to happen or make something happen sooner'?",
+    "choices": ["accelerate", "retreat", "contain", "shuffle"],
+    "answer": "accelerate"
+  },
+  {
+    "question": "Which word best means 'harm or trouble caused by someone'?",
+    "choices": ["mischief", "diligence", "paucity", "awe"],
+    "answer": "mischief"
+  },
+  {
+    "question": "Which word best means 'the quality of working carefully with effort'?",
+    "choices": ["diligence", "complacency", "mischief", "paucity"],
+    "answer": "diligence"
+  },
+  {
+    "question": "Which word best means 'to come together in order to help'?",
+    "choices": ["rally", "retreat", "vanish", "wield"],
+    "answer": "rally"
+  },
+  {
+    "question": "Which word best means 'a similar action or event that happened earlier'?",
+    "choices": ["precedent", "cause", "configuration", "pamphlet"],
+    "answer": "precedent"
+  },
+  {
+    "question": "Which word best means 'an organization or idea that people fight for'?",
+    "choices": ["cause", "precedent", "ritual", "mischief"],
+    "answer": "cause"
+  },
+  {
+    "question": "Which word best means 'too satisfied with yourself or a situation'?",
+    "choices": ["complacent", "daring", "gloomy", "timid"],
+    "answer": "complacent"
+  },
+  {
+    "question": "Which word best means 'brave; willing to do dangerous things'?",
+    "choices": ["daring", "complacent", "melancholy", "vulgar"],
+    "answer": "daring"
+  }
+]

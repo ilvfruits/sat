@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Which word best means 'for which there is a fair and acceptable reason'?",
+    "choices": ["legitimate", "null", "benevolent", "mutual"],
+    "answer": "legitimate"
+  },
+  {
+    "question": "Which word best means 'in large quantities; large'?",
+    "choices": ["bountiful", "sporadic", "decent", "whopping"],
+    "answer": "bountiful"
+  },
+  {
+    "question": "Which word best means 'kind, helpful and generous'?",
+    "choices": ["benevolent", "strenuous", "dim", "mythic"],
+    "answer": "benevolent"
+  },
+  {
+    "question": "Which word best means 'to keep someone or something inside limits'?",
+    "choices": ["confine", "roam", "eject", "steer"],
+    "answer": "confine"
+  },
+  {
+    "question": "Which word best means 'to consider that something is caused by a particular thing'?",
+    "choices": ["ascribe", "appreciate", "repudiate", "prescribe"],
+    "answer": "ascribe"
+  },
+  {
+    "question": "Which phrase best means 'a correlation where large values of one variable are associated with small values of another'?",
+    "choices": ["inverse correlation", "trial and error", "at one's disposal", "egg sb on"],
+    "answer": "inverse correlation"
+  },
+  {
+    "question": "Which word best means 'having the value zero'?",
+    "choices": ["null", "legitimate", "decent", "mutual"],
+    "answer": "null"
+  },
+  {
+    "question": "Which word best means 'a statement that says something is not true'?",
+    "choices": ["rebuttal", "proposition", "generalization", "distraction"],
+    "answer": "rebuttal"
+  },
+  {
+    "question": "Which word best means 'to move about or travel without a clear idea'?",
+    "choices": ["roam", "succumb", "hamper", "attest"],
+    "answer": "roam"
+  },
+  {
+    "question": "Which word best means 'to force someone to leave a particular place'?",
+    "choices": ["eject", "confine", "hound", "downplay"],
+    "answer": "eject"
+  },
+  {
+    "question": "Which word best means 'not giving or having much light'?",
+    "choices": ["dim", "strenuous", "mythic", "bountiful"],
+    "answer": "dim"
+  },
+  {
+    "question": "Which word best means 'an idea or opinion'?",
+    "choices": ["proposition", "rebuttal", "fauna", "folklore"],
+    "answer": "proposition"
+  },
+  {
+    "question": "Which word best means 'cause a severe and almost insuperable problem for'?",
+    "choices": ["cripple", "hamper", "steer", "downplay"],
+    "answer": "cripple"
+  },
+  {
+    "question": "Which phrase best means 'a way of achieving an aim by trying different methods and learning from mistakes'?",
+    "choices": ["trial and error", "at one's disposal", "inverse correlation", "account for"],
+    "answer": "trial and error"
+  },
+  {
+    "question": "Which word best means 'a written statement saying something is true all the time when it is only true some of the time'?",
+    "choices": ["generalization", "rebuttal", "proposition", "distraction"],
+    "answer": "generalization"
+  },
+  {
+    "question": "Which word best means 'the beginning or first signs of something'?",
+    "choices": ["dawn", "vicinity", "offspring", "garment"],
+    "answer": "dawn"
+  },
+  {
+    "question": "Which word best means 'all the animals living in an area or period'?",
+    "choices": ["fauna", "flora", "folklore", "militia"],
+    "answer": "fauna"
+  },
+  {
+    "question": "Which word best means 'the plants of a particular area or period'?",
+    "choices": ["flora", "fauna", "offspring", "deity"],
+    "answer": "flora"
+  },
+  {
+    "question": "Which word best means 'to understand that something is true'?",
+    "choices": ["appreciate", "ascribe", "repudiate", "succumb"],
+    "answer": "appreciate"
+  },
+  {
+    "question": "Which phrase best means 'available for use as you prefer'?",
+    "choices": ["at one's disposal", "trial and error", "inverse correlation", "egg sb on"],
+    "answer": "at one's disposal"
+  },
+  {
+    "question": "Which word best means 'that has become very famous, like in a myth'?",
+    "choices": ["mythic", "dim", "strenuous", "sporadic"],
+    "answer": "mythic"
+  },
+  {
+    "question": "Which word best means 'to keep following someone and not leave them alone'?",
+    "choices": ["hound", "roam", "eject", "steer"],
+    "answer": "hound"
+  },
+  {
+    "question": "Which word best means 'to show no respect for something'?",
+    "choices": ["mock", "appreciate", "prescribe", "attest"],
+    "answer": "mock"
+  },
+  {
+    "question": "Which word best means 'a god or goddess'?",
+    "choices": ["deity", "offspring", "militia", "vicinity"],
+    "answer": "deity"
+  },
+  {
+    "question": "Which word best means 'the product or result of something'?",
+    "choices": ["offspring", "fauna", "flora", "garment"],
+    "answer": "offspring"
+  },
+  {
+    "question": "Which word best means 'extremely large'?",
+    "choices": ["whopping", "bountiful", "decent", "strenuous"],
+    "answer": "whopping"
+  },
+  {
+    "question": "Which word best means 'to take someone or something in the direction you want'?",
+    "choices": ["steer", "confine", "cripple", "downplay"],
+    "answer": "steer"
+  },
+  {
+    "question": "Which word best means 'the area around a place'?",
+    "choices": ["vicinity", "dawn", "folklore", "militia"],
+    "answer": "vicinity"
+  },
+  {
+    "question": "Which word best means 'to lose the determination to oppose something'?",
+    "choices": ["succumb", "repudiate", "ascribe", "appreciate"],
+    "answer": "succumb"
+  },
+  {
+    "question": "Which word best means 'a military force whose members often have other jobs'?",
+    "choices": ["militia", "vicinity", "offspring", "garment"],
+    "answer": "militia"
+  },
+  {
+    "question": "Which word best means 'of an acceptable standard; satisfactory'?",
+    "choices": ["decent", "null", "legitimate", "dim"],
+    "answer": "decent"
+  },
+  {
+    "question": "Which word best means 'the traditional stories and culture of a group'?",
+    "choices": ["folklore", "fauna", "flora", "rebuttal"],
+    "answer": "folklore"
+  },
+  {
+    "question": "Which word best means 'make something appear less important than it really is'?",
+    "choices": ["downplay", "cripple", "steer", "prescribe"],
+    "answer": "downplay"
+  },
+  {
+    "question": "Which word best means 'used to describe feelings that two people have for each other equally'?",
+    "choices": ["mutual", "benevolent", "strenuous", "sporadic"],
+    "answer": "mutual"
+  },
+  {
+    "question": "Which word best means 'a thing that takes your attention away'?",
+    "choices": ["distraction", "proposition", "generalization", "rebuttal"],
+    "answer": "distraction"
+  },
+  {
+    "question": "Which phrase best means 'to strongly encourage someone to do something unwise'?",
+    "choices": ["egg sb on", "at one's disposal", "account for", "trial and error"],
+    "answer": "egg sb on"
+  },
+  {
+    "question": "Which word best means 'happening only occasionally or at irregular intervals'?",
+    "choices": ["sporadic", "bountiful", "strenuous", "mutual"],
+    "answer": "sporadic"
+  },
+  {
+    "question": "Which word best means 'to refuse to accept something as true or reasonable'?",
+    "choices": ["repudiate", "ascribe", "appreciate", "prescribe"],
+    "answer": "repudiate"
+  },
+  {
+    "question": "Which word best means 'requiring or using great exertion'?",
+    "choices": ["strenuous", "dim", "decent", "mythic"],
+    "answer": "strenuous"
+  },
+  {
+    "question": "Which word best means 'to say what should be done or how something should be done'?",
+    "choices": ["prescribe", "repudiate", "ascribe", "mock"],
+    "answer": "prescribe"
+  },
+  {
+    "question": "Which word best means 'a piece of clothing'?",
+    "choices": ["garment", "offspring", "vicinity", "militia"],
+    "answer": "garment"
+  },
+  {
+    "question": "Which phrase best means 'to explain the reason for something'?",
+    "choices": ["account for", "trial and error", "inverse correlation", "at one's disposal"],
+    "answer": "account for"
+  },
+  {
+    "question": "Which word best means 'to prevent someone doing something easily'?",
+    "choices": ["hamper", "steer", "cripple", "downplay"],
+    "answer": "hamper"
+  },
+  {
+    "question": "Which word best means 'to show or prove that something is true'?",
+    "choices": ["attest", "mock", "hound", "succumb"],
+    "answer": "attest"
+  }
+]
