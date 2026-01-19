@@ -1,56 +1,159 @@
 {
   "title": "Day 1 Vocabulary Mock Exam",
   "time_limit_minutes": 20,
-  "questions": [
-    {
-      "question": "Which word best means 'to anticipate with fear'?",
-      "choices": ["mount", "dread", "equate", "shed"],
-      "answer": "dread"
-    },
-    {
-      "question": "If someone tries to measure something with great precision, they are most likely to:",
-      "choices": ["calibrate", "pound", "mount", "prowl"],
-      "answer": "calibrate"
-    },
-    {
-      "question": "Which word means 'to praise highly'?",
-      "choices": ["check", "exalt", "compromise", "grudge"],
-      "answer": "exalt"
-    },
-    {
-      "question": "A rule that is an unfair burden would best be described as a(n):",
-      "choices": ["objective", "imposition", "prospect", "exponent"],
-      "answer": "imposition"
-    },
-    {
-      "question": "Which word describes something that appears suddenly?",
-      "choices": ["circulate", "spring up", "replicate", "ascend"],
-      "answer": "spring up"
-    },
-    {
-      "question": "To move quietly while searching for prey is to:",
-      "choices": ["prowl", "mount", "perch", "undulate"],
-      "answer": "prowl"
-    },
-    {
-      "question": "Which word means 'existing as a natural or permanent quality'?",
-      "choices": ["ornate", "stern", "inherent", "ample"],
-      "answer": "inherent"
-    },
-    {
-      "question": "A rapid increase that becomes faster over time is described as:",
-      "choices": ["ample", "objective", "exponential", "intermittent"],
-      "answer": "exponential"
-    },
-    {
-      "question": "Which word best means 'to accept an idea willingly'?",
-      "choices": ["embrace", "check", "besiege", "extract"],
-      "answer": "embrace"
-    },
-    {
-      "question": "If someone weakens their principles in order to agree, they:",
-      "choices": ["replicate", "compromise", "animate", "equate"],
-      "answer": "compromise"
-    }
-  ]
+  "questions": 
+
+[
+  {
+    "question": "Which word best means 'to strike or hit heavily and repeatedly'?",
+    "choices": ["pound", "ascend", "calibrate", "extract"],
+    "answer": "pound"
+  },
+  {
+    "question": "Which word best means 'not proper or appropriate behavior'?",
+    "choices": ["unseemly", "frantic", "stern", "imposing"],
+    "answer": "unseemly"
+  },
+  {
+    "question": "Which word best means 'wild with fear or anxiety'?",
+    "choices": ["frantic", "dreary", "adept", "ornate"],
+    "answer": "frantic"
+  },
+  {
+    "question": "Which word best means 'to anticipate with great fear'?",
+    "choices": ["dread", "embrace", "exalt", "prospect"],
+    "answer": "dread"
+  },
+  {
+    "question": "Which word best means 'to consider one thing the same as another'?",
+    "choices": ["equate", "convene", "besiege", "undulate"],
+    "answer": "equate"
+  },
+  {
+    "question": "Which word best means 'to measure precisely'?",
+    "choices": ["calibrate", "mount", "ascend", "prowl"],
+    "answer": "calibrate"
+  },
+  {
+    "question": "Which word best means 'to climb up stairs or a hill'?",
+    "choices": ["mount", "spring up", "circulate", "perch"],
+    "answer": "mount"
+  },
+  {
+    "question": "Which word best means 'to bring together for a meeting'?",
+    "choices": ["convene", "extract", "grudge", "shed"],
+    "answer": "convene"
+  },
+  {
+    "question": "Which word best means 'to search for mineral deposits'?",
+    "choices": ["prospect", "check", "animate", "compromise"],
+    "answer": "prospect"
+  },
+  {
+    "question": "Which word best means 'to obtain a substance by a special method'?",
+    "choices": ["extract", "circulate", "besiege", "mortify"],
+    "answer": "extract"
+  },
+  {
+    "question": "Which word best means 'a small rocky body orbiting the sun'?",
+    "choices": ["asteroid", "celestial", "malice", "imposition"],
+    "answer": "asteroid"
+  },
+  {
+    "question": "Which word best means 'to cause embarrassment or shame'?",
+    "choices": ["mortify", "prowl", "slumber", "grudge"],
+    "answer": "mortify"
+  },
+  {
+    "question": "Which word best means 'to move about in search of prey'?",
+    "choices": ["prowl", "undulate", "perch", "shed"],
+    "answer": "prowl"
+  },
+  {
+    "question": "Which word best means 'to sleep or lie dormant'?",
+    "choices": ["slumber", "animate", "exalt", "check"],
+    "answer": "slumber"
+  },
+  {
+    "question": "Which word best means 'the intention to do evil'?",
+    "choices": ["malice", "dreary", "ample", "inherent"],
+    "answer": "malice"
+  },
+  {
+    "question": "Which word best means 'dull, bleak, and depressing'?",
+    "choices": ["dreary", "ornate", "stern", "imposing"],
+    "answer": "dreary"
+  },
+  {
+    "question": "Which word best means 'to accept willingly and enthusiastically'?",
+    "choices": ["embrace", "equate", "calibrate", "convene"],
+    "answer": "embrace"
+  },
+  {
+    "question": "Which word best means 'very skilled at something'?",
+    "choices": ["adept", "preposterous", "frantic", "objective"],
+    "answer": "adept"
+  },
+  {
+    "question": "Which word best means 'to move with a smooth wave-like motion'?",
+    "choices": ["undulate", "mount", "ascend", "spring up"],
+    "answer": "undulate"
+  },
+  {
+    "question": "Which word best means 'decorated with complex patterns'?",
+    "choices": ["ornate", "imposing", "ample", "intermittent"],
+    "answer": "ornate"
+  },
+  {
+    "question": "Which word best means 'serious and unrelenting in authority'?",
+    "choices": ["stern", "exponential", "insecticide", "perch"],
+    "answer": "stern"
+  },
+  {
+    "question": "Which word best means 'to praise highly'?",
+    "choices": ["exalt", "check", "shed", "circulate"],
+    "answer": "exalt"
+  },
+  {
+    "question": "Which word best means 'to stop the progress of something undesirable'?",
+    "choices": ["check", "animate", "besiege", "compromise"],
+    "answer": "check"
+  },
+  {
+    "question": "Which word best means 'to produce tears, blood, or light'?",
+    "choices": ["shed", "extract", "prospect", "grudge"],
+    "answer": "shed"
+  },
+  {
+    "question": "Which word best means 'to move continuously through a closed system'?",
+    "choices": ["circulate", "spring up", "prowl", "mortify"],
+    "answer": "circulate"
+  },
+  {
+    "question": "Which word best means 'enough or more than enough'?",
+    "choices": ["ample", "preposterous", "unseemly", "dreary"],
+    "answer": "ample"
+  },
+  {
+    "question": "Which word best means 'a person who promotes an idea'?",
+    "choices": ["exponent", "asteroid", "celestial", "malice"],
+    "answer": "exponent"
+  },
+  {
+    "question": "Which word best means 'very fast and increasing rapidly'?",
+    "choices": ["exponential", "intermittent", "inherent", "objective"],
+    "answer": "exponential"
+  },
+  {
+    "question": "Which word best means 'to surround with armed forces'?",
+    "choices": ["besiege", "convene", "equate", "calibrate"],
+    "answer": "besiege"
+  },
+  {
+    "question": "Which word best means 'grand and impressive in appearance'?",
+    "choices": ["imposing", "adept", "ornate", "stern"],
+    "answer": "imposing"
+  }
+]
+
 }
