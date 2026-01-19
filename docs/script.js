@@ -3,13 +3,6 @@ let index = 0;
 let flipped = false;
 let currentDay = "day1";
 
-let examData = null;
-let examIndex = 0;
-let userAnswers = {};
-let timerInterval = null;
-let timeLeft = 0;
-
-
 /* ---------- FLASHCARDS ---------- */
 
 async function loadDay(day) {
@@ -19,17 +12,6 @@ async function loadDay(day) {
   cards = await res.json();
   index = 0;
   showCard();
-  
-  const examres = await fetch(`mock/exam${day}.json`);
-  
-  if (!examres.ok) {   // ✅ FIX 2 (correct place)
-    alert("Exam not available for this day yet.");
-    return;
-  };
-
-  examData = await examres.json();
-  examIndex = 0;
-  userAnswers = {};
   resetExam();
 }
 
@@ -70,21 +52,41 @@ function shuffleCards() {
 
 /* ---------- EXAM ---------- */
 
-function resetExam() {
-  if (timerInterval) clearInterval(timerInterval);
-  timeLeft = examData.time_limit_minutes * 60;
-  
-  document.getElementById("exam").style.display = "block";
-  document.getElementById("result").textContent = "";
-}
+let examData = null;
+let examIndex = 0;
+let userAnswers = {};
+let timerInterval = null;
+let timeLeft = 0;
 
 async function startExam() {
+  const examNum = currentDay.replace("day", "");
+  const res = await fetch(`mock/exam${examNum}.json`);
+
+  if (!res.ok) {   // ✅ FIX 2 (correct place)
+    alert("Exam not available for this day yet.");
+    return;
+  }
+
+  examData = await res.json();
+  examIndex = 0;
+  userAnswers = {};
+  timeLeft = examData.time_limit_minutes * 60;
 
   document.getElementById("exam").style.display = "block";
   document.getElementById("result").textContent = "";
 
   startTimer();
   showExamQuestion();
+}
+
+function resetExam() {
+  if (timerInterval) clearInterval(timerInterval);
+  examData = null;
+  examIndex = 0;
+  userAnswers = {};
+
+  document.getElementById("exam").style.display = "none";
+  document.getElementById("result").textContent = "";
 }
 
 function startTimer() {
@@ -190,7 +192,3 @@ document.getElementById("daySelect").addEventListener("change", e => {
 });
 
 loadDay(currentDay);
-
-
-
-
