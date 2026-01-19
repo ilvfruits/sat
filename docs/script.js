@@ -61,15 +61,7 @@ function shuffleCards() {
 
 function resetExam() {
   if (timerInterval) clearInterval(timerInterval);
-  examData = null;
-  examIndex = 0;
-  userAnswers = {};
 
-  document.getElementById("exam").style.display = "none";
-  document.getElementById("result").textContent = "";
-}
-
-async function startExam() {
   const examNum = currentDay.replace("day", "");
   const res = await fetch(`mock/exam${examNum}.json`);
 
@@ -82,6 +74,12 @@ async function startExam() {
   examIndex = 0;
   userAnswers = {};
   timeLeft = examData.time_limit_minutes * 60;
+  
+  document.getElementById("exam").style.display = "none";
+  document.getElementById("result").textContent = "";
+}
+
+async function startExam() {
 
   document.getElementById("exam").style.display = "block";
   document.getElementById("result").textContent = "";
@@ -193,4 +191,5 @@ document.getElementById("daySelect").addEventListener("change", e => {
 });
 
 loadDay(currentDay);
+
 
