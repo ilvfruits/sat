@@ -83,6 +83,21 @@ body {
   border-color: #ddd;
 }
 
+.choice-btn.correct {
+  background: #d4edda;
+  border-color: #28a745;
+  color: #155724;
+  font-weight: bold;
+}
+
+.choice-btn.wrong {
+  background: #f8d7da;
+  border-color: #dc3545;
+  color: #721c24;
+  font-weight: bold;
+}
+
+
 /* Navigation buttons */
 .exam-controls {
   display: flex;
@@ -177,3 +192,4 @@ html {
     padding: 14px 18px;
   }
 }
+
