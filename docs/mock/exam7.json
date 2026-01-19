@@ -1,0 +1,227 @@
+{
+  "title": "Day 1 Vocabulary Mock Exam",
+  "time_limit_minutes": 20,
+  "questions": 
+[
+  {
+    "question": "Which word best means 'a person who has the right to belong to a particular country'?",
+    "choices": ["subject", "proponent", "remnant", "debris"],
+    "answer": "subject"
+  },
+  {
+    "question": "Which word best means 'to say what is going to happen in the future'?",
+    "choices": ["foretell", "posit", "encompass", "impart"],
+    "answer": "foretell"
+  },
+  {
+    "question": "Which phrase best means 'the largest part or most of something'?",
+    "choices": ["the lion's share", "on top of sth", "stem from", "confide in sb"],
+    "answer": "the lion's share"
+  },
+  {
+    "question": "Which word best means 'to delay or stop the progress of something'?",
+    "choices": ["impede", "embark", "linger", "offset"],
+    "answer": "impede"
+  },
+  {
+    "question": "Which word best means 'made pure by having other substances taken out'?",
+    "choices": ["refined", "versatile", "uncanny", "arduous"],
+    "answer": "refined"
+  },
+  {
+    "question": "Which word best means 'an artificial slope made of earth and/or stones'?",
+    "choices": ["embankment", "landfill", "mural", "projection"],
+    "answer": "embankment"
+  },
+  {
+    "question": "Which word best means 'the process of getting rid of rubbish by burying it'?",
+    "choices": ["landfill", "embankment", "stitch", "remnant"],
+    "answer": "landfill"
+  },
+  {
+    "question": "Which word best means 'to use a needle and thread to repair pieces of cloth'?",
+    "choices": ["stitch", "scatter", "encompass", "assimilate"],
+    "answer": "stitch"
+  },
+  {
+    "question": "Which word best means 'broken or torn pieces of something larger'?",
+    "choices": ["debris", "remnant", "nuisance", "pitfall"],
+    "answer": "debris"
+  },
+  {
+    "question": "Which word best means 'a small remaining quantity of something'?",
+    "choices": ["remnant", "debris", "myriad", "momentum"],
+    "answer": "remnant"
+  },
+  {
+    "question": "Which word best means 'to throw or drop things in different directions'?",
+    "choices": ["scatter", "impede", "linger", "embark"],
+    "answer": "scatter"
+  },
+  {
+    "question": "Which word best means 'located between two places, things, states, etc.'?",
+    "choices": ["intermediate", "versatile", "aesthetic", "ornate"],
+    "answer": "intermediate"
+  },
+  {
+    "question": "Which word best means 'the impetus and driving force gained by development'?",
+    "choices": ["momentum", "nuisance", "advent", "projection"],
+    "answer": "momentum"
+  },
+  {
+    "question": "Which word best means 'a countless or extremely great number'?",
+    "choices": ["myriad", "remnant", "debris", "pitfall"],
+    "answer": "myriad"
+  },
+  {
+    "question": "Which word best means 'begin a course of action, especially an important one'?",
+    "choices": ["embark", "undergo", "assimilate", "deviate"],
+    "answer": "embark"
+  },
+  {
+    "question": "Which word best means 'a set of instructions telling you how to prepare and cook food'?",
+    "choices": ["recipe", "projection", "mural", "ornate"],
+    "answer": "recipe"
+  },
+  {
+    "question": "Which word best means 'include different types of things'?",
+    "choices": ["encompass", "impede", "impart", "offset"],
+    "answer": "encompass"
+  },
+  {
+    "question": "Which word best means 'to experience something unpleasant or involving change'?",
+    "choices": ["undergo", "embark", "foretell", "posit"],
+    "answer": "undergo"
+  },
+  {
+    "question": "Which word best means 'to become part of a group, country, society, etc.'?",
+    "choices": ["assimilate", "deviate", "linger", "bloom"],
+    "answer": "assimilate"
+  },
+  {
+    "question": "Which word best means 'strange or mysterious; difficult to explain'?",
+    "choices": ["uncanny", "aesthetic", "jarring", "overwhelming"],
+    "answer": "uncanny"
+  },
+  {
+    "question": "Which word best means 'to suggest something as a basic fact or principle'?",
+    "choices": ["posit", "foretell", "encompass", "impart"],
+    "answer": "posit"
+  },
+  {
+    "question": "Which word best means 'something or someone that annoys you'?",
+    "choices": ["nuisance", "pitfall", "advent", "proponent"],
+    "answer": "nuisance"
+  },
+  {
+    "question": "Which phrase best means 'extremely tired'?",
+    "choices": ["worn out", "on top of sth", "stem from", "align yourself with"],
+    "answer": "worn out"
+  },
+  {
+    "question": "Which word best means 'a likely mistake or problem in a situation'?",
+    "choices": ["pitfall", "nuisance", "remnant", "debris"],
+    "answer": "pitfall"
+  },
+  {
+    "question": "Which word best means 'to do something different from the usual way of behaving'?",
+    "choices": ["deviate", "assimilate", "embark", "undergo"],
+    "answer": "deviate"
+  },
+  {
+    "question": "Which word best means 'relating to the enjoyment or study of beauty'?",
+    "choices": ["aesthetic", "ornate", "versatile", "refined"],
+    "answer": "aesthetic"
+  },
+  {
+    "question": "Which word best means 'the fact of an event happening or a person arriving'?",
+    "choices": ["advent", "momentum", "projection", "myriad"],
+    "answer": "advent"
+  },
+  {
+    "question": "Which word best means 'to grow or develop successfully'?",
+    "choices": ["bloom", "linger", "impart", "offset"],
+    "answer": "bloom"
+  },
+  {
+    "question": "Which word best means 'able to adapt to many different functions'?",
+    "choices": ["versatile", "refined", "arduous", "jarring"],
+    "answer": "versatile"
+  },
+  {
+    "question": "Which word best means 'to hate someone or something'?",
+    "choices": ["loathe", "align yourself with", "confide in sb", "stem from"],
+    "answer": "loathe"
+  },
+  {
+    "question": "Which word best means 'a person who speaks publicly in support of an idea'?",
+    "choices": ["proponent", "subject", "remnant", "debris"],
+    "answer": "proponent"
+  },
+  {
+    "question": "Which phrase best means 'to agree with and support someone's aims'?",
+    "choices": ["align yourself with", "confide in sb", "on top of sth", "stem from"],
+    "answer": "align yourself with"
+  },
+  {
+    "question": "Which word best means 'having a strong and unpleasant effect'?",
+    "choices": ["jarring", "uncanny", "overwhelming", "ornate"],
+    "answer": "jarring"
+  },
+  {
+    "question": "Which word best means 'to take a long time to leave or disappear'?",
+    "choices": ["linger", "embark", "deviate", "bloom"],
+    "answer": "linger"
+  },
+  {
+    "question": "Which phrase best means 'to start or develop as the result of something'?",
+    "choices": ["stem from", "on top of sth", "confide in sb", "align yourself with"],
+    "answer": "stem from"
+  },
+  {
+    "question": "Which word best means 'difficult, needing a lot of effort and energy'?",
+    "choices": ["arduous", "versatile", "aesthetic", "refined"],
+    "answer": "arduous"
+  },
+  {
+    "question": "Which word best means 'to give something a particular feeling or quality'?",
+    "choices": ["impart", "offset", "encompass", "impede"],
+    "answer": "impart"
+  },
+  {
+    "question": "Which word best means 'a painting that is painted on a wall'?",
+    "choices": ["mural", "embankment", "landfill", "projection"],
+    "answer": "mural"
+  },
+  {
+    "question": "Which phrase best means 'to tell something secret to someone you trust'?",
+    "choices": ["confide in sb", "align yourself with", "on top of sth", "stem from"],
+    "answer": "confide in sb"
+  },
+  {
+    "question": "Which phrase best means 'in addition to something, especially something unpleasant'?",
+    "choices": ["on top of sth", "stem from", "confide in sb", "align yourself with"],
+    "answer": "on top of sth"
+  },
+  {
+    "question": "Which word best means 'to balance one influence against an opposing influence'?",
+    "choices": ["offset", "impede", "impart", "encompass"],
+    "answer": "offset"
+  },
+  {
+    "question": "Which word best means 'an estimate of what figures or events will be in the future'?",
+    "choices": ["projection", "momentum", "advent", "nuisance"],
+    "answer": "projection"
+  },
+  {
+    "question": "Which word best means 'difficult to fight against'?",
+    "choices": ["overwhelming", "jarring", "uncanny", "arduous"],
+    "answer": "overwhelming"
+  },
+  {
+    "question": "Which word best means 'having a lot of complicated decoration'?",
+    "choices": ["ornate", "aesthetic", "refined", "versatile"],
+    "answer": "ornate"
+  }
+]
+}

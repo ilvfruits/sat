@@ -1,0 +1,227 @@
+{
+  "title": "Day 1 Vocabulary Mock Exam",
+  "time_limit_minutes": 20,
+  "questions": 
+[
+  {
+    "question": "Which word best means 'very beautiful and delicate'?",
+    "choices": ["exquisite", "utilitarian", "ornate", "submissive"],
+    "answer": "exquisite"
+  },
+  {
+    "question": "Which word best means 'eating plants'?",
+    "choices": ["herbivorous", "invertebrate", "disparate", "prone"],
+    "answer": "herbivorous"
+  },
+  {
+    "question": "Which word best means 'an animal with no spine'?",
+    "choices": ["invertebrate", "herbivorous", "larva", "biomass"],
+    "answer": "invertebrate"
+  },
+  {
+    "question": "Which word best means 'essentially different in kind'?",
+    "choices": ["disparate", "binary", "redundant", "nostalgic"],
+    "answer": "disparate"
+  },
+  {
+    "question": "Which word best means 'likely to suffer from an illness'?",
+    "choices": ["prone", "deficient", "fulfilled", "ominous"],
+    "answer": "prone"
+  },
+  {
+    "question": "Which phrase best means 'gradually disappear'?",
+    "choices": ["wear off", "precipitate", "amass", "discharge"],
+    "answer": "wear off"
+  },
+  {
+    "question": "Which word best means 'having the qualities expected of a particular type'?",
+    "choices": ["stereotypical", "nostalgic", "submissive", "utilitarian"],
+    "answer": "stereotypical"
+  },
+  {
+    "question": "Which word best means 'nearly; almost'?",
+    "choices": ["virtually", "prone", "interior", "exquisite"],
+    "answer": "virtually"
+  },
+  {
+    "question": "Which word best means 'situated within or inside'?",
+    "choices": ["interior", "utilitarian", "binary", "disparate"],
+    "answer": "interior"
+  },
+  {
+    "question": "Which word best means 'designed to be useful rather than decorative'?",
+    "choices": ["utilitarian", "exquisite", "nostalgic", "ominous"],
+    "answer": "utilitarian"
+  },
+  {
+    "question": "Which word best means 'to reduce something in size or amount'?",
+    "choices": ["deplete", "amass", "outweigh", "complement"],
+    "answer": "deplete"
+  },
+  {
+    "question": "Which word best means 'satisfied because of fully developing one's abilities'?",
+    "choices": ["fulfilled", "prone", "deficient", "submissive"],
+    "answer": "fulfilled"
+  },
+  {
+    "question": "Which word best means 'to be greater or more important than something else'?",
+    "choices": ["outweigh", "precipitate", "localize", "hatch"],
+    "answer": "outweigh"
+  },
+  {
+    "question": "Which word best means 'to contain germs or bacteria'?",
+    "choices": ["harbor", "contaminate", "discharge", "inherit"],
+    "answer": "harbor"
+  },
+  {
+    "question": "Which word best means 'to find the position of something'?",
+    "choices": ["localize", "swirl", "annihilate", "toil"],
+    "answer": "localize"
+  },
+  {
+    "question": "Which word best means 'a difference between two things that should be the same'?",
+    "choices": ["discrepancy", "maxim", "slang", "attachment"],
+    "answer": "discrepancy"
+  },
+  {
+    "question": "Which word best means 'very unpleasant and difficult to accept'?",
+    "choices": ["unpalatable", "nostalgic", "exquisite", "fulfilled"],
+    "answer": "unpalatable"
+  },
+  {
+    "question": "Which word best means 'to destroy completely'?",
+    "choices": ["annihilate", "deplete", "precipitate", "amass"],
+    "answer": "annihilate"
+  },
+  {
+    "question": "Which word best means 'a tool used in the house'?",
+    "choices": ["utensil", "larva", "biomass", "maxim"],
+    "answer": "utensil"
+  },
+  {
+    "question": "Which word best means 'to break open so a young animal can come out'?",
+    "choices": ["hatch", "swirl", "toil", "inherit"],
+    "answer": "hatch"
+  },
+  {
+    "question": "Which word best means 'an insect at the stage when it has just come out of an egg'?",
+    "choices": ["larva", "invertebrate", "biomass", "utensil"],
+    "answer": "larva"
+  },
+  {
+    "question": "Which word best means 'unnecessary because it is more than is needed'?",
+    "choices": ["redundant", "deficient", "binary", "disparate"],
+    "answer": "redundant"
+  },
+  {
+    "question": "Which word best means 'a strong feeling of affection'?",
+    "choices": ["attachment", "resentment", "indifference", "scrutiny"],
+    "answer": "attachment"
+  },
+  {
+    "question": "Which word best means 'suggesting that something unpleasant is likely to happen'?",
+    "choices": ["ominous", "nostalgic", "prone", "fulfilled"],
+    "answer": "ominous"
+  },
+  {
+    "question": "Which word best means 'feeling happy and sad when thinking about the past'?",
+    "choices": ["nostalgic", "unpalatable", "stereotypical", "utilitarian"],
+    "answer": "nostalgic"
+  },
+  {
+    "question": "Which word best means 'not having enough of a specified quality'?",
+    "choices": ["deficient", "redundant", "binary", "disparate"],
+    "answer": "deficient"
+  },
+  {
+    "question": "Which word best means 'work extremely hard or incessantly'?",
+    "choices": ["toil", "swirl", "hatch", "discharge"],
+    "answer": "toil"
+  },
+  {
+    "question": "Which word best means 'critical observation or examination'?",
+    "choices": ["scrutiny", "demeanor", "slang", "maxim"],
+    "answer": "scrutiny"
+  },
+  {
+    "question": "Which word best means 'a remark that expresses praise or admiration'?",
+    "choices": ["compliment", "complement", "resentment", "attachment"],
+    "answer": "compliment"
+  },
+  {
+    "question": "Which word best means 'to add to something in a way that improves it'?",
+    "choices": ["complement", "deplete", "precipitate", "annihilate"],
+    "answer": "complement"
+  },
+  {
+    "question": "Which word best means 'to make something happen suddenly or sooner'?",
+    "choices": ["precipitate", "amass", "outweigh", "localize"],
+    "answer": "precipitate"
+  },
+  {
+    "question": "Which word best means 'to collect something in large quantities'?",
+    "choices": ["amass", "deplete", "inherit", "discharge"],
+    "answer": "amass"
+  },
+  {
+    "question": "Which word best means 'the total quantity of plants and animals in an area'?",
+    "choices": ["biomass", "larva", "invertebrate", "utensil"],
+    "answer": "biomass"
+  },
+  {
+    "question": "Which word best means 'consisting of two parts'?",
+    "choices": ["binary", "disparate", "redundant", "deficient"],
+    "answer": "binary"
+  },
+  {
+    "question": "Which word best means 'a short statement expressing a general truth'?",
+    "choices": ["maxim", "slang", "demeanor", "indifference"],
+    "answer": "maxim"
+  },
+  {
+    "question": "Which word best means 'the way that someone looks or behaves'?",
+    "choices": ["demeanor", "scrutiny", "attachment", "resentment"],
+    "answer": "demeanor"
+  },
+  {
+    "question": "Which word best means 'a lack of interest or feeling'?",
+    "choices": ["indifference", "resentment", "attachment", "scrutiny"],
+    "answer": "indifference"
+  },
+  {
+    "question": "Which word best means 'very informal words used by a particular group'?",
+    "choices": ["slang", "maxim", "biomass", "utensil"],
+    "answer": "slang"
+  },
+  {
+    "question": "Which word best means 'a feeling of anger about something unfair'?",
+    "choices": ["resentment", "indifference", "attachment", "compliment"],
+    "answer": "resentment"
+  },
+  {
+    "question": "Which word best means 'ready to conform to the authority of others'?",
+    "choices": ["submissive", "prone", "stereotypical", "nostalgic"],
+    "answer": "submissive"
+  },
+  {
+    "question": "Which word best means 'receive money or property as an heir'?",
+    "choices": ["inherit", "amass", "discharge", "precipitate"],
+    "answer": "inherit"
+  },
+  {
+    "question": "Which word best means 'move in a twisting or spiralling pattern'?",
+    "choices": ["swirl", "toil", "hatch", "localize"],
+    "answer": "swirl"
+  },
+  {
+    "question": "Which word best means 'make something impure by exposure to a polluting substance'?",
+    "choices": ["contaminate", "deplete", "outweigh", "complement"],
+    "answer": "contaminate"
+  },
+  {
+    "question": "Which word best means 'do all that is required to fulfill a responsibility'?",
+    "choices": ["discharge", "toil", "swirl", "inherit"],
+    "answer": "discharge"
+  }
+]
+}

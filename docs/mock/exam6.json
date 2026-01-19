@@ -1,0 +1,227 @@
+{
+  "title": "Day 1 Vocabulary Mock Exam",
+  "time_limit_minutes": 20,
+  "questions": 
+[
+  {
+    "question": "Which word best means 'to keep something as it is, especially to prevent decay'?",
+    "choices": ["preserve", "replenish", "convert", "boost"],
+    "answer": "preserve"
+  },
+  {
+    "question": "Which word best means 'to very much respect and admire someone'?",
+    "choices": ["revere", "undertake", "hinder", "spur"],
+    "answer": "revere"
+  },
+  {
+    "question": "Which word best means 'a long search for something difficult to find'?",
+    "choices": ["quest", "capacity", "fungus", "peninsula"],
+    "answer": "quest"
+  },
+  {
+    "question": "Which word best means 'carrying or holding a lot of something'?",
+    "choices": ["laden", "vertical", "horizontal", "porous"],
+    "answer": "laden"
+  },
+  {
+    "question": "Which word best means 'to give a particular job or duty to someone else'?",
+    "choices": ["delegate", "supplement", "infuse", "fuse"],
+    "answer": "delegate"
+  },
+  {
+    "question": "Which word best means 'relating to exaggerated speaking or writing'?",
+    "choices": ["hyperbolic", "considerate", "painstaking", "avid"],
+    "answer": "hyperbolic"
+  },
+  {
+    "question": "Which word best means 'careful not to cause inconvenience to others'?",
+    "choices": ["considerate", "hostile", "resilient", "pressing"],
+    "answer": "considerate"
+  },
+  {
+    "question": "Which word best means 'notably large in size, amount, or extent'?",
+    "choices": ["considerable", "feasible", "celebrated", "overt"],
+    "answer": "considerable"
+  },
+  {
+    "question": "Which word best means 'having minute interstices through which liquid or air may pass'?",
+    "choices": ["porous", "vertical", "horizontal", "laden"],
+    "answer": "porous"
+  },
+  {
+    "question": "Which word best means 'a specified role or position'?",
+    "choices": ["capacity", "quest", "fungus", "peninsula"],
+    "answer": "capacity"
+  },
+  {
+    "question": "Which word best means 'done or shown openly; not secret'?",
+    "choices": ["overt", "covert", "avid", "feasible"],
+    "answer": "overt"
+  },
+  {
+    "question": "Which phrase best means 'in disagreement'?",
+    "choices": ["at odds with", "in conjunction with", "depart from", "draw on"],
+    "answer": "at odds with"
+  },
+  {
+    "question": "Which phrase best means 'to be different from the usual way'?",
+    "choices": ["depart from", "draw on", "in conjunction with", "at odds with"],
+    "answer": "depart from"
+  },
+  {
+    "question": "Which phrase best means 'in combination with; together with'?",
+    "choices": ["in conjunction with", "at odds with", "depart from", "draw on"],
+    "answer": "in conjunction with"
+  },
+  {
+    "question": "Which word best means 'to move smoothly and quietly'?",
+    "choices": ["glide", "hibernate", "boost", "hinder"],
+    "answer": "glide"
+  },
+  {
+    "question": "Which word best means 'to spend the winter in a state like deep sleep'?",
+    "choices": ["hibernate", "glide", "undertake", "supplement"],
+    "answer": "hibernate"
+  },
+  {
+    "question": "Which word best means 'any plant without leaves, flowers or green colouring'?",
+    "choices": ["fungus", "peninsula", "capacity", "quest"],
+    "answer": "fungus"
+  },
+  {
+    "question": "Which word best means 'a piece of land almost surrounded by water'?",
+    "choices": ["peninsula", "fungus", "capacity", "quest"],
+    "answer": "peninsula"
+  },
+  {
+    "question": "Which word best means 'to make yourself responsible for something and start doing it'?",
+    "choices": ["undertake", "boost", "hinder", "supplement"],
+    "answer": "undertake"
+  },
+  {
+    "question": "Which word best means 'to improve or increase something'?",
+    "choices": ["boost", "hinder", "supplement", "preserve"],
+    "answer": "boost"
+  },
+  {
+    "question": "Which word best means 'done with great care and thoroughness'?",
+    "choices": ["painstaking", "avid", "celebrated", "feasible"],
+    "answer": "painstaking"
+  },
+  {
+    "question": "Which word best means 'to make it difficult for something to develop'?",
+    "choices": ["hinder", "boost", "supplement", "undertake"],
+    "answer": "hinder"
+  },
+  {
+    "question": "Which word best means 'add an extra element or amount to'?",
+    "choices": ["supplement", "boost", "hinder", "preserve"],
+    "answer": "supplement"
+  },
+  {
+    "question": "Which word best means 'possible to do'?",
+    "choices": ["feasible", "celebrated", "avid", "considerable"],
+    "answer": "feasible"
+  },
+  {
+    "question": "Which word best means 'known and praised by many people'?",
+    "choices": ["celebrated", "feasible", "painstaking", "hyperbolic"],
+    "answer": "celebrated"
+  },
+  {
+    "question": "Which word best means 'having a keen interest in something'?",
+    "choices": ["avid", "considerate", "considerable", "porous"],
+    "answer": "avid"
+  },
+  {
+    "question": "Which word best means 'at right angles to a horizontal plane'?",
+    "choices": ["vertical", "horizontal", "equivalent", "overt"],
+    "answer": "vertical"
+  },
+  {
+    "question": "Which word best means 'parallel to the plane of the horizon'?",
+    "choices": ["horizontal", "vertical", "equivalent", "porous"],
+    "answer": "horizontal"
+  },
+  {
+    "question": "Which word best means 'equal in value, amount, function, meaning, etc.'?",
+    "choices": ["equivalent", "vertical", "horizontal", "overt"],
+    "answer": "equivalent"
+  },
+  {
+    "question": "Which word best means 'to be filled with a particular quality'?",
+    "choices": ["resonate", "infuse", "fuse", "draw on"],
+    "answer": "resonate"
+  },
+  {
+    "question": "Which phrase best means 'to use information or knowledge to help you'?",
+    "choices": ["draw on", "depart from", "at odds with", "in conjunction with"],
+    "answer": "draw on"
+  },
+  {
+    "question": "Which word best means 'not suitable for humans to live in'?",
+    "choices": ["inhospitable", "burgeoning", "resilient", "hostile"],
+    "answer": "inhospitable"
+  },
+  {
+    "question": "Which word best means 'developing quickly'?",
+    "choices": ["burgeoning", "resilient", "hostile", "pressing"],
+    "answer": "burgeoning"
+  },
+  {
+    "question": "Which word best means 'to join or become combined'?",
+    "choices": ["fuse", "infuse", "replenish", "convert"],
+    "answer": "fuse"
+  },
+  {
+    "question": "Which word best means 'to fill someone or something with an emotion or quality'?",
+    "choices": ["infuse", "fuse", "replenish", "supplement"],
+    "answer": "infuse"
+  },
+  {
+    "question": "Which word best means 'able to quickly return to a previous good condition'?",
+    "choices": ["resilient", "hostile", "burgeoning", "pressing"],
+    "answer": "resilient"
+  },
+  {
+    "question": "Which word best means 'difficult or not suitable for living or growing'?",
+    "choices": ["hostile", "resilient", "inhospitable", "burgeoning"],
+    "answer": "hostile"
+  },
+  {
+    "question": "Which word best means 'to fill something up again'?",
+    "choices": ["replenish", "supplement", "infuse", "fuse"],
+    "answer": "replenish"
+  },
+  {
+    "question": "Which word best means 'the act of covering something to stop heat, sound, or electricity from escaping'?",
+    "choices": ["insulation", "influx", "capacity", "peninsula"],
+    "answer": "insulation"
+  },
+  {
+    "question": "Which word best means 'to encourage an activity or make it happen faster'?",
+    "choices": ["spur", "hinder", "boost", "preserve"],
+    "answer": "spur"
+  },
+  {
+    "question": "Which word best means 'to care for young animals or children'?",
+    "choices": ["rear", "undertake", "hibernate", "glide"],
+    "answer": "rear"
+  },
+  {
+    "question": "Which word best means 'an arrival or entry of large numbers of people or things'?",
+    "choices": ["influx", "insulation", "fungus", "quest"],
+    "answer": "influx"
+  },
+  {
+    "question": "Which word best means 'urgent, requiring quick or immediate attention'?",
+    "choices": ["pressing", "considerable", "feasible", "avid"],
+    "answer": "pressing"
+  },
+  {
+    "question": "Which word best means 'cause to change in form, character, or function'?",
+    "choices": ["convert", "preserve", "replenish", "boost"],
+    "answer": "convert"
+  }
+]
+}
