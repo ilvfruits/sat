@@ -1,4 +1,8 @@
-[
+{
+  "title": "Day 1 Vocabulary Mock Exam",
+  "time_limit_minutes": 20,
+  "questions": 
+  [
   {
     "question": "Which word best means 'for which there is a fair and acceptable reason'?",
     "choices": ["legitimate", "null", "benevolent", "mutual"],
@@ -220,3 +224,4 @@
     "answer": "attest"
   }
 ]
+}
