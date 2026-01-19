@@ -91,16 +91,25 @@ function showExamQuestion() {
   const choicesDiv = document.getElementById("choices");
   choicesDiv.innerHTML = "";
 
+  const alreadyAnswered = userAnswers.hasOwnProperty(examIndex);
+
   q.choices.forEach(choice => {
     const btn = document.createElement("button");
     btn.textContent = choice;
     btn.className = "choice-btn";
+
+    if (alreadyAnswered) {
+      btn.classList.add("locked");
+      btn.disabled = true;
+    }
 
     if (userAnswers[examIndex] === choice) {
       btn.classList.add("selected");
     }
 
     btn.onclick = () => {
+      if (alreadyAnswered) return;
+
       userAnswers[examIndex] = choice;
       showExamQuestion();
     };
@@ -158,5 +167,6 @@ document.getElementById("result").innerHTML =
 });
 
 loadDay("day1");
+
 
 
