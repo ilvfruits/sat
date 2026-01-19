@@ -137,3 +137,43 @@ html {
   }
 }
 
+@media (max-width: 480px) {
+
+  #exam {
+    padding: 20px;
+  }
+
+  #examQuestion {
+    font-size: 1.25rem;
+  }
+
+  #timer {
+    font-size: 1.1rem;
+  }
+
+  #scoreBoard {
+    font-size: 1rem;
+  }
+
+  .choice-btn {
+    font-size: 1.1rem;
+    padding: 16px;
+  }
+
+  .exam-controls {
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  .exam-controls button {
+    font-size: 1rem;
+    padding: 14px 18px;
+    width: 100%;
+  }
+
+  /* Flashcard buttons too */
+  .buttons button {
+    font-size: 1rem;
+    padding: 14px 18px;
+  }
+}
