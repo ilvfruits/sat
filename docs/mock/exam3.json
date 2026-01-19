@@ -1,0 +1,222 @@
+[
+  {
+    "question": "Which word best means 'express fluently and coherently'?",
+    "choices": ["articulate", "enumerate", "contend", "exhort"],
+    "answer": "articulate"
+  },
+  {
+    "question": "Which word best means 'justify or necessitate a certain course of action'?",
+    "choices": ["warrant", "sanction", "gratify", "simulate"],
+    "answer": "warrant"
+  },
+  {
+    "question": "Which word best means 'likely to have a strong or far-reaching effect'?",
+    "choices": ["drastic", "mundane", "prodigious", "vibrant"],
+    "answer": "drastic"
+  },
+  {
+    "question": "Which word best means 'very ordinary and therefore not interesting'?",
+    "choices": ["mundane", "tranquil", "robust", "laborious"],
+    "answer": "mundane"
+  },
+  {
+    "question": "Which word best means 'mention a number of things one by one'?",
+    "choices": ["enumerate", "dissolve", "diffuse", "fluctuate"],
+    "answer": "enumerate"
+  },
+  {
+    "question": "Which word best means 'remarkably great in extent, size, or degree'?",
+    "choices": ["prodigious", "myriad", "demanding", "aloof"],
+    "answer": "prodigious"
+  },
+  {
+    "question": "Which word best means 'make someone annoyed or angry'?",
+    "choices": ["irritate", "gratify", "baffle", "engross"],
+    "answer": "irritate"
+  },
+  {
+    "question": "Which word best means 'a mixture of two very different things'?",
+    "choices": ["hybrid", "hierarchy", "manifestation", "nuance"],
+    "answer": "hybrid"
+  },
+  {
+    "question": "Which word best means 'learned person, especially a distinguished scientist'?",
+    "choices": ["savant", "oblivious", "obedient", "antagonistic"],
+    "answer": "savant"
+  },
+  {
+    "question": "Which word best means 'to please someone or satisfy a wish'?",
+    "choices": ["gratify", "entertain", "heave", "flee"],
+    "answer": "gratify"
+  },
+  {
+    "question": "Which word best means 'a countless or extremely great number'?",
+    "choices": ["myriad", "deficiency", "aggregate", "proliferate"],
+    "answer": "myriad"
+  },
+  {
+    "question": "Which word best means 'imitate the appearance or character of'?",
+    "choices": ["simulate", "tap", "spawn", "glow"],
+    "answer": "simulate"
+  },
+  {
+    "question": "Which word best means 'to get or make use of something'?",
+    "choices": ["tap", "heave", "flee", "flock"],
+    "answer": "tap"
+  },
+  {
+    "question": "Which word best means 'strong and healthy or unlikely to break'?",
+    "choices": ["robust", "laborious", "demanding", "vibrant"],
+    "answer": "robust"
+  },
+  {
+    "question": "Which word best means 'a system arranged according to importance'?",
+    "choices": ["hierarchy", "hybrid", "manifestation", "deficiency"],
+    "answer": "hierarchy"
+  },
+  {
+    "question": "Which word best means 'complying or willing to comply with orders'?",
+    "choices": ["obedient", "antagonistic", "aloof", "oblivious"],
+    "answer": "obedient"
+  },
+  {
+    "question": "Which word best means 'a lack or shortage'?",
+    "choices": ["deficiency", "myriad", "proliferate", "fluctuate"],
+    "answer": "deficiency"
+  },
+  {
+    "question": "Which word best means 'free from disturbance; calm'?",
+    "choices": ["tranquil", "vibrant", "drastic", "mundane"],
+    "answer": "tranquil"
+  },
+  {
+    "question": "Which word best means 'feel deep pleasure and convey it through expression'?",
+    "choices": ["glow", "heave", "flourish", "exhort"],
+    "answer": "glow"
+  },
+  {
+    "question": "Which word best means 'lift or haul with great effort'?",
+    "choices": ["heave", "flee", "flock", "spawn"],
+    "answer": "heave"
+  },
+  {
+    "question": "Which word best means 'develop rapidly and successfully'?",
+    "choices": ["flourish", "deteriorate", "fluctuate", "proliferate"],
+    "answer": "flourish"
+  },
+  {
+    "question": "Which word best means 'strongly encourage or urge someone to do something'?",
+    "choices": ["exhort", "contend", "sanction", "entertain"],
+    "answer": "exhort"
+  },
+  {
+    "question": "Which word best means 'showing active opposition or hostility'?",
+    "choices": ["antagonistic", "obedient", "aloof", "oblivious"],
+    "answer": "antagonistic"
+  },
+  {
+    "question": "Which word best means 'spread over a wide area or between many people'?",
+    "choices": ["diffuse", "dissolve", "engross", "wipe out"],
+    "answer": "diffuse"
+  },
+  {
+    "question": "Which word best means 'a subtle difference in meaning or expression'?",
+    "choices": ["nuance", "manifestation", "hybrid", "hierarchy"],
+    "answer": "nuance"
+  },
+  {
+    "question": "Which phrase best means 'with reference to; concerning'?",
+    "choices": ["with respect to", "wipe out", "tap into", "flock to"],
+    "answer": "with respect to"
+  },
+  {
+    "question": "Which word best means 'congregate or mass in a large group'?",
+    "choices": ["flock", "flee", "heave", "spawn"],
+    "answer": "flock"
+  },
+  {
+    "question": "Which word best means 'an event that clearly shows something abstract'?",
+    "choices": ["manifestation", "nuance", "deficiency", "hybrid"],
+    "answer": "manifestation"
+  },
+  {
+    "question": "Which word best means 'increase rapidly in numbers'?",
+    "choices": ["proliferate", "fluctuate", "dissolve", "contend"],
+    "answer": "proliferate"
+  },
+  {
+    "question": "Which word best means 'rise and fall irregularly in number or amount'?",
+    "choices": ["fluctuate", "proliferate", "flourish", "deteriorate"],
+    "answer": "fluctuate"
+  },
+  {
+    "question": "Which word best means 'full of energy and enthusiasm'?",
+    "choices": ["vibrant", "tranquil", "laborious", "demanding"],
+    "answer": "vibrant"
+  },
+  {
+    "question": "Which word best means 'totally bewilder or perplex'?",
+    "choices": ["baffle", "gratify", "irritate", "engross"],
+    "answer": "baffle"
+  },
+  {
+    "question": "Which word best means 'requiring considerable effort and time'?",
+    "choices": ["laborious", "robust", "prodigious", "drastic"],
+    "answer": "laborious"
+  },
+  {
+    "question": "Which word best means 'run away from someone or something'?",
+    "choices": ["flee", "flock", "heave", "tap"],
+    "answer": "flee"
+  },
+  {
+    "question": "Which word best means 'give attention or consideration to an idea'?",
+    "choices": ["entertain", "contend", "sanction", "exhort"],
+    "answer": "entertain"
+  },
+  {
+    "question": "Which word best means 'annul or put an end to a partnership or marriage'?",
+    "choices": ["dissolve", "sanction", "warrant", "gratify"],
+    "answer": "dissolve"
+  },
+  {
+    "question": "Which word best means 'give official permission or approval for an action'?",
+    "choices": ["sanction", "warrant", "contend", "entertain"],
+    "answer": "sanction"
+  },
+  {
+    "question": "Which word best means 'assert something as a position in an argument'?",
+    "choices": ["contend", "exhort", "enumerate", "articulate"],
+    "answer": "contend"
+  },
+  {
+    "question": "Which phrase best means 'eliminate something completely'?",
+    "choices": ["wipe out", "with respect to", "tap into", "flock to"],
+    "answer": "wipe out"
+  },
+  {
+    "question": "Which word best means 'produce or generate in large numbers'?",
+    "choices": ["spawn", "proliferate", "fluctuate", "flourish"],
+    "answer": "spawn"
+  },
+  {
+    "question": "Which word best means 'requiring much skill or effort'?",
+    "choices": ["demanding", "laborious", "robust", "vibrant"],
+    "answer": "demanding"
+  },
+  {
+    "question": "Which word best means 'conspicuously uninvolved and uninterested'?",
+    "choices": ["aloof", "oblivious", "obedient", "antagonistic"],
+    "answer": "aloof"
+  },
+  {
+    "question": "Which word best means 'not aware of or concerned about surroundings'?",
+    "choices": ["oblivious", "aloof", "engrossed", "tranquil"],
+    "answer": "oblivious"
+  },
+  {
+    "question": "Which word best means 'absorb all the attention or interest of'?",
+    "choices": ["engross", "baffle", "gratify", "irritate"],
+    "answer": "engross"
+  }
+]
