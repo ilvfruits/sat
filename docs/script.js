@@ -4,16 +4,12 @@ let flipped = false;
 let currentDay = "day1";
 
 async function loadDay(day) {
-  currentDay = day; // 🔑 sync day
-
   const res = await fetch(`data/${day}.json`);
   cards = await res.json();
   index = 0;
   showCard();
-
   resetExam(); // reset exam when day changes
 }
-
 
 function showCard() {
   const c = cards[index];
@@ -198,6 +194,7 @@ document.getElementById("result").innerHTML =
 });
 
 loadDay(currentDay);
+
 
 
 
