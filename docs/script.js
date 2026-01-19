@@ -19,6 +19,16 @@ async function loadDay(day) {
   cards = await res.json();
   index = 0;
   showCard();
+  
+  const examres = await fetch(`mock/exam${day}.json`);
+  
+  if (!examres.ok) {   // ✅ FIX 2 (correct place)
+    alert("Exam not available for this day yet.");
+    return;
+  }
+
+  examData = await examres.json();
+  examIndex = 0
   resetExam();
 }
 
@@ -61,21 +71,10 @@ function shuffleCards() {
 
 function resetExam() {
   if (timerInterval) clearInterval(timerInterval);
-
-  const examNum = currentDay.replace("day", "");
-  const res = await fetch(`mock/exam${examNum}.json`);
-
-  if (!res.ok) {   // ✅ FIX 2 (correct place)
-    alert("Exam not available for this day yet.");
-    return;
-  }
-
-  examData = await res.json();
-  examIndex = 0;
   userAnswers = {};
   timeLeft = examData.time_limit_minutes * 60;
   
-  document.getElementById("exam").style.display = "none";
+  document.getElementById("exam").style.display = "block";
   document.getElementById("result").textContent = "";
 }
 
@@ -191,5 +190,6 @@ document.getElementById("daySelect").addEventListener("change", e => {
 });
 
 loadDay(currentDay);
+
 
 
