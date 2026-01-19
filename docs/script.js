@@ -197,7 +197,8 @@ document.getElementById("result").innerHTML =
   `<strong>Final Score:</strong> ${score} / ${examData.questions.length}`;
 });
 
-loadDay("day1");
+loadDay(currentDay);
+
 
 
 
