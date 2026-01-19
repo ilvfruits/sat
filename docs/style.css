@@ -73,6 +73,16 @@ body {
   font-weight: bold;
 }
 
+.choice-btn.locked {
+  cursor: not-allowed;
+  opacity: 0.75;
+}
+
+.choice-btn.locked:not(.selected):hover {
+  background: #f8f9fa;
+  border-color: #ddd;
+}
+
 /* Navigation buttons */
 .exam-controls {
   display: flex;
@@ -109,4 +119,5 @@ body {
 .exam-controls button.danger:hover {
   background: #b52a37;
 }
+
 
