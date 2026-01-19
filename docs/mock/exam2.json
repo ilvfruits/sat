@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Which word best means 'not to be relied upon'?",
+    "choices": ["dubious", "versatile", "superior", "penal"],
+    "answer": "dubious"
+  },
+  {
+    "question": "Which word best means 'have an intense feeling of loss and longing'?",
+    "choices": ["yearn", "concede", "solicit", "envision"],
+    "answer": "yearn"
+  },
+  {
+    "question": "Which word best means 'fill with examples of something unpleasant'?",
+    "choices": ["litter", "smudge", "deteriorate", "pervade"],
+    "answer": "litter"
+  },
+  {
+    "question": "Which word best means 'a group of young birds all born at the same time'?",
+    "choices": ["brood", "litter", "genome", "aggregate"],
+    "answer": "brood"
+  },
+  {
+    "question": "Which word best means 'consider to be unworthy of one's consideration'?",
+    "choices": ["disdain", "deter", "thwart", "coerce"],
+    "answer": "disdain"
+  },
+  {
+    "question": "Which word best means 'relating to the structure of populations'?",
+    "choices": ["demographic", "penal", "versatile", "conceited"],
+    "answer": "demographic"
+  },
+  {
+    "question": "Which word best means 'a period of temporary economic decline'?",
+    "choices": ["recession", "bust", "proxy", "revenue"],
+    "answer": "recession"
+  },
+  {
+    "question": "Which word best means 'a period of economic difficulty or depression'?",
+    "choices": ["bust", "recession", "aggregate", "supremacy"],
+    "answer": "bust"
+  },
+  {
+    "question": "Which word best means 'a person who is given the power to act for someone else'?",
+    "choices": ["proxy", "brood", "posterity", "benchmark"],
+    "answer": "proxy"
+  },
+  {
+    "question": "Which word best means 'the complete set of genetic material'?",
+    "choices": ["genome", "aggregate", "revenue", "supremacy"],
+    "answer": "genome"
+  },
+  {
+    "question": "Which word best means 'imagine as a future possibility'?",
+    "choices": ["envision", "entreat", "solicit", "pledge"],
+    "answer": "envision"
+  },
+  {
+    "question": "Which word best means 'save, rescue, or set free'?",
+    "choices": ["deliver", "thwart", "deter", "coerce"],
+    "answer": "deliver"
+  },
+  {
+    "question": "Which word best means 'able to adapt to many different functions'?",
+    "choices": ["versatile", "superior", "penal", "conceited"],
+    "answer": "versatile"
+  },
+  {
+    "question": "Which word best means 'to ask someone for money, information, or help'?",
+    "choices": ["solicit", "entreat", "coerce", "pledge"],
+    "answer": "solicit"
+  },
+  {
+    "question": "Which phrase best means 'to have a lot of something'?",
+    "choices": ["be littered with", "take issue with", "be laden with", "be superior to"],
+    "answer": "be littered with"
+  },
+  {
+    "question": "Which word best means 'to stop something from happening'?",
+    "choices": ["thwart", "augment", "disseminate", "benchmark"],
+    "answer": "thwart"
+  },
+  {
+    "question": "Which word best means 'leave (property) to a person by a will'?",
+    "choices": ["bequeath", "concede", "endorse", "deliver"],
+    "answer": "bequeath"
+  },
+  {
+    "question": "Which word best means 'excessively proud of oneself'?",
+    "choices": ["conceited", "penal", "versatile", "dubious"],
+    "answer": "conceited"
+  },
+  {
+    "question": "Which word best means 'of or relating to punishment by law'?",
+    "choices": ["penal", "demographic", "versatile", "superior"],
+    "answer": "penal"
+  },
+  {
+    "question": "Which word best means 'to pretend'?",
+    "choices": ["sham", "thwart", "envision", "entreat"],
+    "answer": "sham"
+  },
+  {
+    "question": "Which word best means 'to increase the value or amount of something'?",
+    "choices": ["augment", "deteriorate", "pervade", "smudge"],
+    "answer": "augment"
+  },
+  {
+    "question": "Which word best means 'the act of saying that you approve of something'?",
+    "choices": ["endorsement", "supremacy", "revenue", "aggregate"],
+    "answer": "endorsement"
+  },
+  {
+    "question": "Which word best means 'to be in charge of a formal meeting'?",
+    "choices": ["preside", "envision", "pledge", "trample"],
+    "answer": "preside"
+  },
+  {
+    "question": "Which word best means 'to spread through every part of something'?",
+    "choices": ["pervade", "disseminate", "aggregate", "smudge"],
+    "answer": "pervade"
+  },
+  {
+    "question": "Which word best means 'to try very hard to persuade someone'?",
+    "choices": ["entreat", "coerce", "solicit", "pledge"],
+    "answer": "entreat"
+  },
+  {
+    "question": "Which word best means 'to persuade someone forcefully to do something'?",
+    "choices": ["coerce", "entreat", "thwart", "deter"],
+    "answer": "coerce"
+  },
+  {
+    "question": "Which word best means 'something formed by adding together several amounts'?",
+    "choices": ["aggregate", "genome", "revenue", "posterity"],
+    "answer": "aggregate"
+  },
+  {
+    "question": "Which word best means 'cause to become messily smeared by rubbing'?",
+    "choices": ["smudge", "trample", "disseminate", "deteriorate"],
+    "answer": "smudge"
+  },
+  {
+    "question": "Which word best means 'better than average or better than others'?",
+    "choices": ["superior", "versatile", "penal", "conceited"],
+    "answer": "superior"
+  },
+  {
+    "question": "Which phrase best means 'to disagree strongly'?",
+    "choices": ["take issue with", "be littered with", "be laden with", "be superior to"],
+    "answer": "take issue with"
+  },
+  {
+    "question": "Which word best means 'income, especially of a substantial nature'?",
+    "choices": ["revenue", "aggregate", "endorsement", "supremacy"],
+    "answer": "revenue"
+  },
+  {
+    "question": "Which word best means 'form a judgement or estimate of a situation'?",
+    "choices": ["gauge", "disseminate", "benchmark", "envision"],
+    "answer": "gauge"
+  },
+  {
+    "question": "Which word best means 'spread or disperse widely'?",
+    "choices": ["disseminate", "pervade", "aggregate", "smudge"],
+    "answer": "disseminate"
+  },
+  {
+    "question": "Which word best means 'the state of being superior to all others'?",
+    "choices": ["supremacy", "endorsement", "revenue", "posterity"],
+    "answer": "supremacy"
+  },
+  {
+    "question": "Which word best means 'discourage someone from doing something'?",
+    "choices": ["deter", "thwart", "coerce", "entreat"],
+    "answer": "deter"
+  },
+  {
+    "question": "Which word best means 'become progressively worse'?",
+    "choices": ["deteriorate", "augment", "pervade", "smudge"],
+    "answer": "deteriorate"
+  },
+  {
+    "question": "Which word best means 'heavily loaded or weighed down'?",
+    "choices": ["laden", "aggregate", "versatile", "superior"],
+    "answer": "laden"
+  },
+  {
+    "question": "Which word best means 'evaluate by comparison with a standard'?",
+    "choices": ["benchmark", "gauge", "disseminate", "envision"],
+    "answer": "benchmark"
+  },
+  {
+    "question": "Which word best means 'all future generations of people'?",
+    "choices": ["posterity", "brood", "genome", "aggregate"],
+    "answer": "posterity"
+  },
+  {
+    "question": "Which word best means 'solemnly undertake to do something'?",
+    "choices": ["pledge", "entreat", "solicit", "concede"],
+    "answer": "pledge"
+  },
+  {
+    "question": "Which word best means 'to act without any respect for someone'?",
+    "choices": ["trample", "disdain", "coerce", "thwart"],
+    "answer": "trample"
+  },
+  {
+    "question": "Which word best means 'admit or agree that something is true after first denying it'?",
+    "choices": ["concede", "pledge", "entreat", "solicit"],
+    "answer": "concede"
+  }
+]
