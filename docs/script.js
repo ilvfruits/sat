@@ -188,12 +188,14 @@ function submitExam() {
 
 document.getElementById("daySelect").addEventListener("change", e => {
   loadDay(e.target.value);
+});
 
 document.getElementById("result").innerHTML =
   `<strong>Final Score:</strong> ${score} / ${examData.questions.length}`;
 });
 
 loadDay(currentDay);
+
 
 
 
