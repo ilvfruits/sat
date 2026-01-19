@@ -1,13 +1,19 @@
 let cards = [];
 let index = 0;
 let flipped = false;
+let currentDay = "day1";
 
 async function loadDay(day) {
+  currentDay = day; // 🔑 sync day
+
   const res = await fetch(`data/${day}.json`);
   cards = await res.json();
   index = 0;
   showCard();
+
+  resetExam(); // reset exam when day changes
 }
+
 
 function showCard() {
   const c = cards[index];
@@ -51,7 +57,7 @@ let timerInterval;
 let timeLeft;
 
 async function startExam() {
-  const res = await fetch("mock/exam1.json");
+  const res = await fetch(`mock/exam${currentDay.replace("day", "")}.json`);
   examData = await res.json();
 
   examIndex = 0;
@@ -63,6 +69,21 @@ async function startExam() {
 
   startTimer();
   showExamQuestion();
+}
+
+function resetExam() {
+  clearInterval(timerInterval);
+  examData = null;
+  examIndex = 0;
+  userAnswers = {};
+
+  document.getElementById("exam").style.display = "none";
+  document.getElementById("result").textContent = "";
+}
+
+if (!res.ok) {
+  alert("Exam not available for this day yet.");
+  return;
 }
 
 function startTimer() {
@@ -177,6 +198,7 @@ document.getElementById("result").innerHTML =
 });
 
 loadDay("day1");
+
 
 
 
