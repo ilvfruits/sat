@@ -3,12 +3,16 @@ let index = 0;
 let flipped = false;
 let currentDay = "day1";
 
+/* ---------- FLASHCARDS ---------- */
+
 async function loadDay(day) {
+  currentDay = day; // 🔑 FIX 1
+
   const res = await fetch(`data/${day}.json`);
   cards = await res.json();
   index = 0;
   showCard();
-  resetExam(); // reset exam when day changes
+  resetExam();
 }
 
 function showCard() {
@@ -16,7 +20,6 @@ function showCard() {
   document.getElementById("word").textContent = c.word;
   document.getElementById("pos").textContent = c.pos;
   document.getElementById("meaning").textContent = c.meaning_cn;
-
   document.getElementById("definition").textContent = c.definition;
   document.getElementById("example").textContent = c.example;
 
@@ -46,16 +49,25 @@ function shuffleCards() {
   index = 0;
   showCard();
 }
+
+/* ---------- EXAM ---------- */
+
 let examData = null;
 let examIndex = 0;
 let userAnswers = {};
-let timerInterval;
-let timeLeft;
+let timerInterval = null;
+let timeLeft = 0;
 
 async function startExam() {
-  const res = await fetch(`mock/exam${currentDay.replace("day", "")}.json`);
-  examData = await res.json();
+  const examNum = currentDay.replace("day", "");
+  const res = await fetch(`mock/exam${examNum}.json`);
 
+  if (!res.ok) {   // ✅ FIX 2 (correct place)
+    alert("Exam not available for this day yet.");
+    return;
+  }
+
+  examData = await res.json();
   examIndex = 0;
   userAnswers = {};
   timeLeft = examData.time_limit_minutes * 60;
@@ -68,18 +80,13 @@ async function startExam() {
 }
 
 function resetExam() {
-  clearInterval(timerInterval);
+  if (timerInterval) clearInterval(timerInterval);
   examData = null;
   examIndex = 0;
   userAnswers = {};
 
   document.getElementById("exam").style.display = "none";
   document.getElementById("result").textContent = "";
-}
-
-if (!res.ok) {
-  alert("Exam not available for this day yet.");
-  return;
 }
 
 function startTimer() {
@@ -122,18 +129,11 @@ function showExamQuestion() {
       btn.disabled = true;
       btn.classList.add("locked");
 
-      // highlight correct answer
-      if (choice === correctAnswer) {
-        btn.classList.add("correct");
-      }
-
-      // highlight user's wrong choice
+      if (choice === correctAnswer) btn.classList.add("correct");
       if (choice === userChoice && userChoice !== correctAnswer) {
         btn.classList.add("wrong");
       }
-    }
-
-    if (!alreadyAnswered) {
+    } else {
       btn.onclick = () => {
         userAnswers[examIndex] = choice;
         showExamQuestion();
@@ -143,7 +143,6 @@ function showExamQuestion() {
     choicesDiv.appendChild(btn);
   });
 }
-
 
 function updateScoreBoard() {
   let answered = Object.keys(userAnswers).length;
@@ -182,24 +181,14 @@ function submitExam() {
   });
 
   document.getElementById("exam").style.display = "none";
-  document.getElementById("result").textContent =
-    `Score: ${score} / ${examData.questions.length}`;
+  document.getElementById("result").innerHTML =
+    `<strong>Final Score:</strong> ${score} / ${examData.questions.length}`;
 }
+
+/* ---------- EVENTS ---------- */
 
 document.getElementById("daySelect").addEventListener("change", e => {
   loadDay(e.target.value);
 });
 
-document.getElementById("result").innerHTML =
-  `<strong>Final Score:</strong> ${score} / ${examData.questions.length}`;
-});
-
 loadDay(currentDay);
-
-
-
-
-
-
-
-
