@@ -83,6 +83,8 @@ function updateTimer() {
 
 function showExamQuestion() {
   const q = examData.questions[examIndex];
+  const correctAnswer = q.answer;
+
   document.getElementById("examQuestion").textContent =
     `Q${examIndex + 1}. ${q.question}`;
 
@@ -92,6 +94,7 @@ function showExamQuestion() {
   choicesDiv.innerHTML = "";
 
   const alreadyAnswered = userAnswers.hasOwnProperty(examIndex);
+  const userChoice = userAnswers[examIndex];
 
   q.choices.forEach(choice => {
     const btn = document.createElement("button");
@@ -99,24 +102,31 @@ function showExamQuestion() {
     btn.className = "choice-btn";
 
     if (alreadyAnswered) {
-      btn.classList.add("locked");
       btn.disabled = true;
+      btn.classList.add("locked");
+
+      // highlight correct answer
+      if (choice === correctAnswer) {
+        btn.classList.add("correct");
+      }
+
+      // highlight user's wrong choice
+      if (choice === userChoice && userChoice !== correctAnswer) {
+        btn.classList.add("wrong");
+      }
     }
 
-    if (userAnswers[examIndex] === choice) {
-      btn.classList.add("selected");
+    if (!alreadyAnswered) {
+      btn.onclick = () => {
+        userAnswers[examIndex] = choice;
+        showExamQuestion();
+      };
     }
-
-    btn.onclick = () => {
-      if (alreadyAnswered) return;
-
-      userAnswers[examIndex] = choice;
-      showExamQuestion();
-    };
 
     choicesDiv.appendChild(btn);
   });
 }
+
 
 function updateScoreBoard() {
   let answered = Object.keys(userAnswers).length;
@@ -167,6 +177,7 @@ document.getElementById("result").innerHTML =
 });
 
 loadDay("day1");
+
 
 
 
