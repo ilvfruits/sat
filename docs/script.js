@@ -25,10 +25,11 @@ async function loadDay(day) {
   if (!examres.ok) {   // ✅ FIX 2 (correct place)
     alert("Exam not available for this day yet.");
     return;
-  }
+  };
 
   examData = await examres.json();
-  examIndex = 0
+  examIndex = 0;
+  userAnswers = {};
   resetExam();
 }
 
@@ -71,7 +72,6 @@ function shuffleCards() {
 
 function resetExam() {
   if (timerInterval) clearInterval(timerInterval);
-  userAnswers = {};
   timeLeft = examData.time_limit_minutes * 60;
   
   document.getElementById("exam").style.display = "block";
@@ -190,6 +190,7 @@ document.getElementById("daySelect").addEventListener("change", e => {
 });
 
 loadDay(currentDay);
+
 
 
 
