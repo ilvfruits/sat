@@ -1,4 +1,8 @@
-[
+{
+  "title": "Day 1 Vocabulary Mock Exam",
+  "time_limit_minutes": 20,
+  "questions": 
+  [
   {
     "question": "Which word best means 'express fluently and coherently'?",
     "choices": ["articulate", "enumerate", "contend", "exhort"],
@@ -219,4 +223,6 @@
     "choices": ["engross", "baffle", "gratify", "irritate"],
     "answer": "engross"
   }
+
 ]
+}
