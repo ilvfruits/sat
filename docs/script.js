@@ -3,6 +3,13 @@ let index = 0;
 let flipped = false;
 let currentDay = "day1";
 
+let examData = null;
+let examIndex = 0;
+let userAnswers = {};
+let timerInterval = null;
+let timeLeft = 0;
+
+
 /* ---------- FLASHCARDS ---------- */
 
 async function loadDay(day) {
@@ -52,11 +59,15 @@ function shuffleCards() {
 
 /* ---------- EXAM ---------- */
 
-let examData = null;
-let examIndex = 0;
-let userAnswers = {};
-let timerInterval = null;
-let timeLeft = 0;
+function resetExam() {
+  if (timerInterval) clearInterval(timerInterval);
+  examData = null;
+  examIndex = 0;
+  userAnswers = {};
+
+  document.getElementById("exam").style.display = "none";
+  document.getElementById("result").textContent = "";
+}
 
 async function startExam() {
   const examNum = currentDay.replace("day", "");
@@ -77,16 +88,6 @@ async function startExam() {
 
   startTimer();
   showExamQuestion();
-}
-
-function resetExam() {
-  if (timerInterval) clearInterval(timerInterval);
-  examData = null;
-  examIndex = 0;
-  userAnswers = {};
-
-  document.getElementById("exam").style.display = "none";
-  document.getElementById("result").textContent = "";
 }
 
 function startTimer() {
@@ -192,3 +193,4 @@ document.getElementById("daySelect").addEventListener("change", e => {
 });
 
 loadDay(currentDay);
+
