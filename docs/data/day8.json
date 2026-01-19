@@ -1,0 +1,310 @@
+[
+  {
+    "word": "exquisite",
+    "pos": "adj.",
+    "meaning_cn": "精美的，精致的，优雅的",
+    "definition": "very beautiful and delicate",
+    "example": "Look at this exquisite painting."
+  },
+  {
+    "word": "herbivorous",
+    "pos": "adj.",
+    "meaning_cn": "食草的",
+    "definition": "(of an animal) eating plants",
+    "example": "Rabbits are relatively large, wild, herbivorous mammals."
+  },
+  {
+    "word": "invertebrate",
+    "pos": "n.",
+    "meaning_cn": "无脊椎动物",
+    "definition": "an animal with no spine",
+    "example": "Invertebrates, such as worms, are the main diet of these water birds."
+  },
+  {
+    "word": "disparate",
+    "pos": "adj.",
+    "meaning_cn": "完全不同的人",
+    "definition": "essentially different in kind; not allowing comparison",
+    "example": "They inhabit disparate worlds of thought."
+  },
+  {
+    "word": "prone",
+    "pos": "adj.",
+    "meaning_cn": "易于遭受（疾病）的，有（消极）倾向的",
+    "definition": "likely to suffer from an illness or show a particular negative characteristic",
+    "example": "He was prone to depression even as a teenager."
+  },
+  {
+    "word": "wear off",
+    "pos": "phrase",
+    "meaning_cn": "感觉或效果逐渐消失",
+    "definition": "If a feeling or the effect of something wears off, it gradually disappears.",
+    "example": "Most patients find that the numbness from the injection wears off after about an hour."
+  },
+  {
+    "word": "stereotypical",
+    "pos": "adj.",
+    "meaning_cn": "（老套的）类型化的",
+    "definition": "having the qualities that you expect a particular type of person to have",
+    "example": "Customers are tired of the stereotypical, fast-talking salesperson."
+  },
+  {
+    "word": "virtually",
+    "pos": "adv.",
+    "meaning_cn": "几乎，差不多",
+    "definition": "nearly; almost",
+    "example": "Their twins are virtually identical."
+  },
+  {
+    "word": "interior",
+    "pos": "adj.",
+    "meaning_cn": "里面的，内部的",
+    "definition": "situated within or inside; relating to the inside; inner",
+    "example": "The interior lighting is not adequate."
+  },
+  {
+    "word": "utilitarian",
+    "pos": "adj.",
+    "meaning_cn": "实用的",
+    "definition": "designed to be useful rather than decorative",
+    "example": "Like many factories, it's a very ugly utilitarian building."
+  },
+  {
+    "word": "deplete",
+    "pos": "vt.",
+    "meaning_cn": "消耗，耗费（资源、金钱、精力等）",
+    "definition": "to reduce something in size or amount, especially supplies of energy, money, etc.",
+    "example": "If we continue to deplete the earth's natural resources, we will cause serious damage to the environment."
+  },
+  {
+    "word": "fulfilled",
+    "pos": "adj.",
+    "meaning_cn": "（因充分发挥自己的才能而）心满意足的，得偿所愿的",
+    "definition": "satisfied or happy because of fully developing one's abilities or character",
+    "example": "Now that I have my dream job, for the first time in my life I feel really fulfilled."
+  },
+  {
+    "word": "outweigh",
+    "pos": "vt.",
+    "meaning_cn": "比...更重要",
+    "definition": "to be greater or more important than something else",
+    "example": "The benefits of this treatment far outweigh any risks."
+  },
+  {
+    "word": "harbor",
+    "pos": "vt.",
+    "meaning_cn": "包含，藏有（细菌等）；心怀，怀有（想法或感情）",
+    "definition": "1. to contain the bacteria, etc. that can cause a disease to spread; 2. to think about or feel something, usually over a long period",
+    "example": "He's been harbouring a grudge against her ever since his promotion was refused."
+  },
+  {
+    "word": "localize",
+    "pos": "vt.",
+    "meaning_cn": "确定...的位置",
+    "definition": "to find the position of something",
+    "example": "Electricians worked through the night to localize the faulty switches."
+  },
+  {
+    "word": "discrepancy",
+    "pos": "n.",
+    "meaning_cn": "不一致，区别",
+    "definition": "a difference between two things that should be the same",
+    "example": "There is some discrepancy between the two accounts."
+  },
+  {
+    "word": "unpalatable",
+    "pos": "adj.",
+    "meaning_cn": "（事实或想法）令人不快的，让人难以接受的",
+    "definition": "an unpalatable fact or idea is very unpleasant and difficult to accept",
+    "example": "The unpalatable truth is that the team isn't getting any better."
+  },
+  {
+    "word": "annihilate",
+    "pos": "v.",
+    "meaning_cn": "消灭，歼灭，毁灭",
+    "definition": "to destroy someone or something completely",
+    "example": "The human race has enough weapons to annihilate itself."
+  },
+  {
+    "word": "utensil",
+    "pos": "n.",
+    "meaning_cn": "（家庭）用具，器皿",
+    "definition": "a tool that is used in the house",
+    "example": "Utensils are tools or objects that you use in order to help you to cook, serve food, or eat."
+  },
+  {
+    "word": "hatch",
+    "pos": "v.",
+    "meaning_cn": "孵化，破壳",
+    "definition": "to break open so that a young bird, fish, insect, etc. can come out",
+    "example": "The eggs are about to hatch."
+  },
+  {
+    "word": "larva",
+    "pos": "n.",
+    "meaning_cn": "幼虫，幼体（复数为larvae）",
+    "definition": "an insect at the stage when it has just come out of an egg and looks like a short fat worm",
+    "example": "The eggs quickly hatch into larvae."
+  },
+  {
+    "word": "redundant",
+    "pos": "adj.",
+    "meaning_cn": "（尤指词、短语等）多余的",
+    "definition": "(especially of a word, phrase, etc.) unnecessary because it is more than is needed",
+    "example": "In the sentence \"She is a single unmarried woman\", the word \"unmarried\" is redundant."
+  },
+  {
+    "word": "attachment",
+    "pos": "n.",
+    "meaning_cn": "依恋，爱慕",
+    "definition": "a strong feeling of affection for someone or something",
+    "example": "As a teenager she formed a strong attachment to one of her teachers."
+  },
+  {
+    "word": "ominous",
+    "pos": "adj.",
+    "meaning_cn": "恶兆的，不祥的，不吉利的",
+    "definition": "suggesting that something unpleasant is likely to happen",
+    "example": "There was an ominous silence when I asked whether my contract was going to be renewed."
+  },
+  {
+    "word": "nostalgic",
+    "pos": "adj.",
+    "meaning_cn": "怀旧的",
+    "definition": "feeling happy and also slightly sad when you think about things that happened in the past",
+    "example": "Talking about our old family holidays has made me feel all nostalgic."
+  },
+  {
+    "word": "deficient",
+    "pos": "adj.",
+    "meaning_cn": "缺乏的，不足的",
+    "definition": "not having enough of a specified quality or ingredient",
+    "example": "This diet is deficient in vitamin B."
+  },
+  {
+    "word": "toil",
+    "pos": "vi.",
+    "meaning_cn": "苦干，辛勤劳动",
+    "definition": "work extremely hard or incessantly",
+    "example": "Richard toiled to build his editorial team."
+  },
+  {
+    "word": "scrutiny",
+    "pos": "n.",
+    "meaning_cn": "仔细观察，详细审查",
+    "definition": "critical observation or examination",
+    "example": "Every aspect of local government was placed under scrutiny."
+  },
+  {
+    "word": "compliment",
+    "pos": "n. & vt.",
+    "meaning_cn": "赞扬，称赞",
+    "definition": "a remark that expresses praise or admiration of someone; to tell someone that you like or admire something they have done",
+    "example": "She complimented him on his excellent German."
+  },
+  {
+    "word": "complement",
+    "pos": "n. & vt.",
+    "meaning_cn": "补充",
+    "definition": "a thing that adds new qualities to something in a way that improves it; to add to something in a way that improves it",
+    "example": "The team needs players who complement each other."
+  },
+  {
+    "word": "precipitate",
+    "pos": "vt.",
+    "meaning_cn": "促成，加速…的发生；（使）沉淀",
+    "definition": "1. to make something happen suddenly or sooner than expected; 2. If a liquid precipitates, substances in it become solid and separate from the liquid.",
+    "example": "An invasion would certainly precipitate a political crisis."
+  },
+  {
+    "word": "amass",
+    "pos": "vt.",
+    "meaning_cn": "（尤指大量）积累，积聚",
+    "definition": "to collect something, especially in large quantities",
+    "example": "He amassed a fortune from silver mining."
+  },
+  {
+    "word": "biomass",
+    "pos": "n.",
+    "meaning_cn": "生物量（以生境面积或容积表示）",
+    "definition": "the total quantity or weight of plants and animals in a particular area or volume",
+    "example": ""
+  },
+  {
+    "word": "binary",
+    "pos": "adj.",
+    "meaning_cn": "双的，由两部分组成的",
+    "definition": "consisting of two parts",
+    "example": "Human sexuality is more complicated than the simple binary of \"homosexuals\" and \"heterosexuals.\""
+  },
+  {
+    "word": "maxim",
+    "pos": "n.",
+    "meaning_cn": "格言，箴言",
+    "definition": "a short, pithy statement expressing a general truth or rule of conduct",
+    "example": "Do not forget the maxim that actions speak louder than words."
+  },
+  {
+    "word": "demeanor",
+    "pos": "n.",
+    "meaning_cn": "外表，风度，行为，举止",
+    "definition": "the way that someone looks or behaves",
+    "example": "He maintained a professional demeanour throughout."
+  },
+  {
+    "word": "indifference",
+    "pos": "n.",
+    "meaning_cn": "漠不关心，不感兴趣",
+    "definition": "a lack of interest, feeling or reaction towards someone or something",
+    "example": ""
+  },
+  {
+    "word": "slang",
+    "pos": "n.",
+    "meaning_cn": "俚语",
+    "definition": "very informal words and expressions that are more common in spoken language, especially used by a particular group of people",
+    "example": "Archie liked to think he kept up with current slang."
+  },
+  {
+    "word": "resentment",
+    "pos": "n.",
+    "meaning_cn": "愤恨，怨恨",
+    "definition": "a feeling of anger or unhappiness about something that you think is unfair",
+    "example": "She could not conceal the deep resentment she felt at the way she had been treated."
+  },
+  {
+    "word": "submissive",
+    "pos": "adj.",
+    "meaning_cn": "顺从的，谦恭的",
+    "definition": "ready to conform to the authority or will of others; meekly obedient or passive",
+    "example": "He was looking for a quiet, submissive wife who would obey his every word."
+  },
+  {
+    "word": "inherit",
+    "pos": "vt.",
+    "meaning_cn": "继承（金钱，财产，头衔）",
+    "definition": "receive (money, property, or a title) as an heir at the death of the previous holder",
+    "example": "She inherited a fortune from her father."
+  },
+  {
+    "word": "swirl",
+    "pos": "vi.",
+    "meaning_cn": "旋转",
+    "definition": "move in a twisting or spiralling pattern",
+    "example": "The smoke was swirling around him."
+  },
+  {
+    "word": "contaminate",
+    "pos": "vt.",
+    "meaning_cn": "（常作be contaminated）使不纯，污染",
+    "definition": "make (something) impure by exposure to or addition of a poisonous or polluting substance",
+    "example": "The site was found to be contaminated by radioactivity."
+  },
+  {
+    "word": "discharge",
+    "pos": "vt.",
+    "meaning_cn": "尽职履行（责任），尽职完成（任务）",
+    "definition": "do all that is required to fulfill (a responsibility) or perform (a duty)",
+    "example": "The city must discharge its legal duty to house the homeless."
+  }
+]
