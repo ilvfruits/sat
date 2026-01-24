@@ -1,0 +1,310 @@
+[
+  {
+    "word": "apprentice",
+    "pos": "n.",
+    "meaning_cn": "学徒",
+    "definition": "someone who has agreed to work for a skilled person for a particular period of time and often for low payment, in order to learn that person's skills",
+    "example": "Most of the work was done by apprentices."
+  },
+  {
+    "word": "column",
+    "pos": "n.",
+    "meaning_cn": "（报刊）专栏",
+    "definition": "a section of a newspaper or magazine regularly devoted to a particular subject or written by a particular person",
+    "example": ""
+  },
+  {
+    "word": "contemplate",
+    "pos": "vi.",
+    "meaning_cn": "仔细考虑",
+    "definition": "to spend time considering a possible future action, or to consider one particular thing for a long time in a serious and quiet way",
+    "example": "They were contemplating a move to California."
+  },
+  {
+    "word": "terrestrial",
+    "pos": "adj.",
+    "meaning_cn": "陆地的，陆栖的，陆生的",
+    "definition": "living on the land or on the ground, rather than in water, in trees or in the air",
+    "example": ""
+  },
+  {
+    "word": "benign",
+    "pos": "adj.",
+    "meaning_cn": "（气候，环境）温和的，宜人的",
+    "definition": "(of a climate or environment) mild and favourable",
+    "example": "They enjoyed an especially benign climate."
+  },
+  {
+    "word": "allocate",
+    "pos": "vt.",
+    "meaning_cn": "分配",
+    "definition": "If one item or share of something is allocated to a particular person or for a particular purpose, it is given to that person or used for that purpose.",
+    "example": "Tickets are limited and will be allocated to those who apply first."
+  },
+  {
+    "word": "upset",
+    "pos": "vt.",
+    "meaning_cn": "打翻",
+    "definition": "knock (something) over",
+    "example": "He upset a tureen of soup."
+  },
+  {
+    "word": "synthetic",
+    "pos": "adj.",
+    "meaning_cn": "合成的，人造的",
+    "definition": "artificial; made by combining chemical substances rather than being produced naturally by plants or animals",
+    "example": "Boots made from synthetic materials can usually be washed in a machine."
+  },
+  {
+    "word": "secrete",
+    "pos": "vt.",
+    "meaning_cn": "隐藏；分泌",
+    "definition": "1. to put something in a place where it is unlikely to be found; 2. to produce a liquid substance",
+    "example": "Insulin is secreted by the pancreas."
+  },
+  {
+    "word": "germinate",
+    "pos": "vi.",
+    "meaning_cn": "（种子或想法）发芽，萌芽，开始形成",
+    "definition": "(of a seed or spore) begin to grow and put out shoots after a period of dormancy",
+    "example": "The idea germinated and slowly grew into an obsession."
+  },
+  {
+    "word": "intrigue",
+    "pos": "vt. & n.",
+    "meaning_cn": "引起…的好奇心，迷住；阴谋诡计",
+    "definition": "1. to arouse the curiosity or interest of; fascinate; 2. (the making of) a secret plan to do something, especially something that will harm another person",
+    "example": "Throughout history, people have been intrigued by the question of whether there is intelligent life elsewhere in the universe."
+  },
+  {
+    "word": "unanimity",
+    "pos": "n.",
+    "meaning_cn": "意见一致",
+    "definition": "the quality or state of being unanimous",
+    "example": "These discussions have led to a remarkable unanimity."
+  },
+  {
+    "word": "conformity",
+    "pos": "n.",
+    "meaning_cn": "对规则和权威的服从一致",
+    "definition": "action in accordance with some specified standard or authority",
+    "example": "It's depressing how much conformity there is in such young children."
+  },
+  {
+    "word": "dispose of",
+    "pos": "phrase",
+    "meaning_cn": "处理，花掉",
+    "definition": "get rid of by throwing away or giving or selling to someone else",
+    "example": "How did they dispose of the body?"
+  },
+  {
+    "word": "resourceful",
+    "pos": "adj.",
+    "meaning_cn": "善于随机应变的，足智多谋的",
+    "definition": "having the ability to find quick and clever ways to overcome difficulties",
+    "example": "Keen competition in the arts, crafts and trade made the Greeks an inventive and resourceful people."
+  },
+  {
+    "word": "harness",
+    "pos": "vt.",
+    "meaning_cn": "（尤指为产生能量而）控制并利用（自然资源）",
+    "definition": "control and make use of (natural resources), especially to produce energy",
+    "example": "You must learn to harness the computer's potential."
+  },
+  {
+    "word": "scenario",
+    "pos": "n.",
+    "meaning_cn": "可能出现的场景",
+    "definition": "a postulated sequence or development of events",
+    "example": "A possible scenario is that he was attacked after opening the front door."
+  },
+  {
+    "word": "speculative",
+    "pos": "adj.",
+    "meaning_cn": "推测的，猜测的，推断的",
+    "definition": "based on guessing or on opinions that have been formed without knowing all the facts",
+    "example": "She cast a speculative look at Kate."
+  },
+  {
+    "word": "shed light on",
+    "pos": "phrase",
+    "meaning_cn": "有助于解释某事",
+    "definition": "to help to explain (something)",
+    "example": "She is developing new theories that might shed some light on these unusual phenomena."
+  },
+  {
+    "word": "requisite",
+    "pos": "n.",
+    "meaning_cn": "必需品，必要条件",
+    "definition": "a thing that is necessary for the achievement of a specified end",
+    "example": "She believed privacy to be a requisite for a peaceful life."
+  },
+  {
+    "word": "rage",
+    "pos": "vi.",
+    "meaning_cn": "（自然事物，冲突）流行，肆虐，猖獗",
+    "definition": "(of a natural agency or a conflict) continue violently or with great force",
+    "example": "The conflict raged for months."
+  },
+  {
+    "word": "hazard",
+    "pos": "vt.",
+    "meaning_cn": "拿……去冒险",
+    "definition": "put (something) at risk of being lost",
+    "example": "The cargo business is too risky to hazard money on."
+  },
+  {
+    "word": "detrimental",
+    "pos": "adj.",
+    "meaning_cn": "有害的，不利的",
+    "definition": "harmful",
+    "example": "The policy will be detrimental to the peace process."
+  },
+  {
+    "word": "substitute",
+    "pos": "vi.",
+    "meaning_cn": "用……替换掉",
+    "definition": "to use something or someone instead of another thing or person",
+    "example": "The coach substituted Jones for Smith in the last few minutes of the game."
+  },
+  {
+    "word": "forage",
+    "pos": "vi.",
+    "meaning_cn": "（人或动物）找（食物）吃",
+    "definition": "(of a person or animal) search widely for food",
+    "example": "Gulls are equipped by nature to forage for food."
+  },
+  {
+    "word": "cognitive",
+    "pos": "adj.",
+    "meaning_cn": "与认知有关的",
+    "definition": "of or relating to cognition",
+    "example": "As children grow older, their cognitive processes become sharper."
+  },
+  {
+    "word": "metropolis",
+    "pos": "n.",
+    "meaning_cn": "大都会，大城市",
+    "definition": "a large important city (often the capital city of a country or region)",
+    "example": ""
+  },
+  {
+    "word": "conspicuous",
+    "pos": "adj.",
+    "meaning_cn": "明显的，显著的",
+    "definition": "standing out so as to be clearly visible",
+    "example": "He was very thin, with a conspicuous Adam's apple."
+  },
+  {
+    "word": "yield",
+    "pos": "vt.",
+    "meaning_cn": "产生（效果、收益等）",
+    "definition": "produce or deliver (a result, or gain)",
+    "example": "This method yields the same results."
+  },
+  {
+    "word": "tally",
+    "pos": "vi. & vt.",
+    "meaning_cn": "符合，吻合；合计",
+    "definition": "1. to match or agree with something else; 2. calculate the total number of",
+    "example": "The numbers on your spreadsheet don't tally with ours."
+  },
+  {
+    "word": "muse",
+    "pos": "vi.",
+    "meaning_cn": "沉思，默想，冥想",
+    "definition": "to think about something carefully and for a long time",
+    "example": "I began to muse about/on the possibility of starting my own business."
+  },
+  {
+    "word": "knit",
+    "pos": "vt. & vi.",
+    "meaning_cn": "（使）结合",
+    "definition": "to join together",
+    "example": "The two communities are closely knit by a common faith."
+  },
+  {
+    "word": "idle",
+    "pos": "adj.",
+    "meaning_cn": "闲置的",
+    "definition": "not working or being used",
+    "example": "It's crazy to have $7,000 sitting idle in the bank."
+  },
+  {
+    "word": "feign",
+    "pos": "vt.",
+    "meaning_cn": "假装（某种感情）",
+    "definition": "to pretend to have a particular feeling, problem, etc.",
+    "example": "You know how everyone feigns surprise when you tell them how old you are."
+  },
+  {
+    "word": "improvise",
+    "pos": "vt. & vi.",
+    "meaning_cn": "即兴演奏（创作）",
+    "definition": "to invent or make something, such as a speech or a device, at the time when it is needed without already having planned it",
+    "example": "I hadn't prepared a speech so I suddenly had to improvise."
+  },
+  {
+    "word": "choreograph",
+    "pos": "vt.",
+    "meaning_cn": "给（舞蹈、芭蕾舞剧等）编舞蹈动作",
+    "definition": "to plan the combination of movements to be performed in a dance",
+    "example": "She continues to choreograph new dances for her company, although she rarely performs anymore."
+  },
+  {
+    "word": "nuanced",
+    "pos": "adj.",
+    "meaning_cn": "（在外表、意义、声音等上）有细微差别的",
+    "definition": "made slightly different in appearance, meaning, sound, etc.",
+    "example": "His London accent is very slightly nuanced by an occasional Russian pronunciation."
+  },
+  {
+    "word": "pretentious",
+    "pos": "adj.",
+    "meaning_cn": "（尤指在文学艺术方面）炫耀的，矫饰的，自以为是的",
+    "definition": "trying to appear or sound more important or clever than you are, especially in matters of art and literature",
+    "example": "The novel deals with grand themes, but is never heavy or pretentious."
+  },
+  {
+    "word": "deliberate",
+    "pos": "adj.",
+    "meaning_cn": "故意的，深思熟虑的",
+    "definition": "characterized by or resulting from careful and thorough consideration",
+    "example": "We made a deliberate decision to live apart for a while."
+  },
+  {
+    "word": "console",
+    "pos": "vt.",
+    "meaning_cn": "安抚，慰藉",
+    "definition": "to make someone who is sad or disappointed feel better by giving them comfort or sympathy",
+    "example": "He tried to console her, but she kept saying it was all her own fault."
+  },
+  {
+    "word": "criteria",
+    "pos": "n.",
+    "meaning_cn": "（作出评判、决定或处理的）标准，准则",
+    "definition": "a standard by which you judge, decide about, or deal with something",
+    "example": "The Health Service should not be judged by financial criteria alone."
+  },
+  {
+    "word": "lament",
+    "pos": "vt.",
+    "meaning_cn": "惋惜，表示失望；悼念",
+    "definition": "1. express regret or disappointment over something considered unsatisfactory, unreasonable, or unfair; 2. mourn (a person's loss or death)",
+    "example": "She lamented the fact that manufacturers did not produce small packs for single-person households."
+  },
+  {
+    "word": "counteract",
+    "pos": "vt.",
+    "meaning_cn": "抵消，中和",
+    "definition": "to reduce or remove the effect of something unwanted by producing an opposite effect; neutralize",
+    "example": "Drinking a lot of water counteracts the dehydrating effects of hot weather."
+  },
+  {
+    "word": "neutralize",
+    "pos": "vt.",
+    "meaning_cn": "抵消，使失效",
+    "definition": "to stop something from having an effect",
+    "example": "The aerial bombardments have neutralized the threat of artillery attacks on allied ground forces."
+  }
+]
