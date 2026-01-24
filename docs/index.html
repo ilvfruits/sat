@@ -1,28 +1,64 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>Math Practice</title>
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Verb Flashcards</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<div class="quiz-container">
-  <h1>📘 Math Practice</h1>
-  <p>Select a question set:</p>
+<h1>Verb Flashcards</h1>
 
-  <button onclick="startQuiz('grade3')">Grade 3</button>
-  <button onclick="startQuiz('grade4')">Grade 4</button>
-  <button onclick="startQuiz('sat')">SAT</button>
-  <button onclick="startQuiz('aops')">AOPS</button>
+<select id="daySelect">
+  <option value="day1">Day 1</option>
+  <option value="day2">Day 2</option>
+  <option value="day3">Day 3</option>
+  <option value="day4">Day 4</option>
+  <option value="day5">Day 5</option>
+  <option value="day6">Day 6</option>
+  <option value="day7">Day 7</option>
+  <option value="day8">Day 8</option>
+  <option value="day9">Day 9</option>
+  <option value="day10">Day 10</option>
+</select>
+
+<div id="card" class="card">
+  <h2 id="word">Word</h2>
+  <p id="pos"></p>
+  <p id="meaning"></p>
+  <p id="definition" class="hidden"></p>
+  <p id="example" class="hidden"></p>
 </div>
 
-<script>
-function startQuiz(setName) {
-  window.location.href = `quiz.html?set=${setName}`;
-}
-</script>
+<div class="buttons">
+  <button onclick="flipCard()">Flip</button>
+  <button onclick="prevCard()">Prev</button>
+  <button onclick="nextCard()">Next</button>
+  <button onclick="shuffleCards()">Shuffle</button>
+</div>
 
+<hr>
+
+<h2>Mock Exam</h2>
+<button onclick="startExam()">Start Exam</button>
+
+<div id="exam" style="display:none;">
+  <div id="timer"></div>
+  <div id="scoreBoard"></div>
+
+  <h3 id="examQuestion"></h3>
+  <div id="choices"></div>
+
+  <div class="exam-controls">
+    <button class="secondary" onclick="prevQuestion()">Previous</button>
+    <button onclick="nextQuestion()">Next</button>
+    <button class="danger" onclick="submitExam()">Submit</button>
+  </div>
+</div>
+
+<p id="result"></p>
+
+<script src="script.js"></script>
 </body>
 </html>
