@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is 8 × 6?",
+    "choices": ["42", "48", "54", "36"],
+    "correctIndex": 1,
+    "explanation": "8 × 6 = 48."
+  },
+  {
+    "question": "Which number is even?",
+    "choices": ["7", "9", "12", "15"],
+    "correctIndex": 2,
+    "explanation": "Even numbers are divisible by 2. 12 ÷ 2 = 6."
+  }
+]
