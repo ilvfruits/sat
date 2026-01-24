@@ -1,0 +1,82 @@
+{
+  "title": "Day 1 Vocabulary Mock Exam",
+  "time_limit_minutes": 20,
+  "questions": 
+[
+  {
+    "question": "Which word best means 'to talk in a friendly and humorous way, often teasing playfully'?",
+    "choices": ["banter", "scrutinize", "invoke", "sever"],
+    "answer": "banter"
+  },
+  {
+    "question": "Which word best means 'extremely large in size or amount'?",
+    "choices": ["colossal", "ambient", "explicit", "downright"],
+    "answer": "colossal"
+  },
+  {
+    "question": "Which word best means 'to work together with others to achieve a goal'?",
+    "choices": ["collaborate", "oscillate", "foster", "mitigate"],
+    "answer": "collaborate"
+  },
+  {
+    "question": "Which word best means 'something passed down from the past'?",
+    "choices": ["legacy", "gadget", "domain", "exclamation"],
+    "answer": "legacy"
+  },
+  {
+    "question": "Which word best means 'complete and without any doubts'?",
+    "choices": ["implicit", "disparate", "stubborn", "mighty"],
+    "answer": "implicit"
+  },
+  {
+    "question": "Which word best means 'to examine something very carefully'?",
+    "choices": ["scrutinize", "compute", "enclose", "pose"],
+    "answer": "scrutinize"
+  },
+  {
+    "question": "Which word best means 'to show or announce publicly for the first time'?",
+    "choices": ["unveil", "sever", "invoke", "discern"],
+    "answer": "unveil"
+  },
+  {
+    "question": "Which word best means 'to encourage the development or growth of something'?",
+    "choices": ["foster", "mitigate", "rival", "discord"],
+    "answer": "foster"
+  },
+  {
+    "question": "Which word best means 'to make something less harmful or unpleasant'?",
+    "choices": ["mitigate", "pose", "sever", "unveil"],
+    "answer": "mitigate"
+  },
+  {
+    "question": "Which word best means 'refusing to change one’s mind or course of action'?",
+    "choices": ["stubborn", "blunt", "explicit", "metabolic"],
+    "answer": "stubborn"
+  },
+  {
+    "question": "Which word best means 'a small useful tool or device'?",
+    "choices": ["gadget", "legacy", "domain", "drought"],
+    "answer": "gadget"
+  },
+  {
+    "question": "Which word best means 'an area of interest or control'?",
+    "choices": ["domain", "sentiment", "monarchy", "persistence"],
+    "answer": "domain"
+  },
+  {
+    "question": "Which word best means 'a long period with little or no rain'?",
+    "choices": ["drought", "legacy", "discord", "gadget"],
+    "answer": "drought"
+  },
+  {
+    "question": "Which word best means 'to be as good or impressive as someone or something else'?",
+    "choices": ["rival", "enclose", "compute", "banter"],
+    "answer": "rival"
+  },
+  {
+    "question": "Which word best means 'to waver between opinions or emotions'?",
+    "choices": ["oscillate", "collaborate", "invoke", "sever"],
+    "answer": "oscillate"
+  }
+]
+}

@@ -1,0 +1,227 @@
+{
+  "title": "Day 1 Vocabulary Mock Exam",
+  "time_limit_minutes": 20,
+  "questions": 
+[
+  {
+    "question": "Which word best means 'someone who works for a skilled person to learn their skills'?",
+    "choices": ["apprentice", "metropolis", "conspicuous", "criteria"],
+    "answer": "apprentice"
+  },
+  {
+    "question": "Which word best means 'a section of a newspaper devoted to a particular subject'?",
+    "choices": ["column", "scenario", "requisite", "nuanced"],
+    "answer": "column"
+  },
+  {
+    "question": "Which word best means 'to spend time considering a possible future action'?",
+    "choices": ["contemplate", "muse", "feign", "improvise"],
+    "answer": "contemplate"
+  },
+  {
+    "question": "Which word best means 'living on the land rather than in water or air'?",
+    "choices": ["terrestrial", "benign", "synthetic", "cognitive"],
+    "answer": "terrestrial"
+  },
+  {
+    "question": "Which word best means 'mild and favourable (of climate or environment)'?",
+    "choices": ["benign", "detrimental", "pretentious", "deliberate"],
+    "answer": "benign"
+  },
+  {
+    "question": "Which word best means 'to give something to a particular person or purpose'?",
+    "choices": ["allocate", "substitute", "harness", "yield"],
+    "answer": "allocate"
+  },
+  {
+    "question": "Which word best means 'to knock something over'?",
+    "choices": ["upset", "rage", "tally", "knit"],
+    "answer": "upset"
+  },
+  {
+    "question": "Which word best means 'artificial; made by combining chemical substances'?",
+    "choices": ["synthetic", "terrestrial", "cognitive", "nuanced"],
+    "answer": "synthetic"
+  },
+  {
+    "question": "Which word best means 'to hide something or produce a liquid substance'?",
+    "choices": ["secrete", "germinate", "intrigue", "harness"],
+    "answer": "secrete"
+  },
+  {
+    "question": "Which word best means 'to begin to grow after a period of dormancy'?",
+    "choices": ["germinate", "forage", "muse", "console"],
+    "answer": "germinate"
+  },
+  {
+    "question": "Which word best means 'to arouse curiosity or interest'?",
+    "choices": ["intrigue", "lament", "counteract", "neutralize"],
+    "answer": "intrigue"
+  },
+  {
+    "question": "Which word best means 'the quality of being unanimous'?",
+    "choices": ["unanimity", "conformity", "resourceful", "speculative"],
+    "answer": "unanimity"
+  },
+  {
+    "question": "Which word best means 'action in accordance with a standard or authority'?",
+    "choices": ["conformity", "unanimity", "scenario", "requisite"],
+    "answer": "conformity"
+  },
+  {
+    "question": "Which phrase best means 'to get rid of something'?",
+    "choices": ["dispose of", "shed light on", "substitute for", "forage for"],
+    "answer": "dispose of"
+  },
+  {
+    "question": "Which word best means 'able to find quick and clever ways to overcome difficulties'?",
+    "choices": ["resourceful", "pretentious", "deliberate", "conspicuous"],
+    "answer": "resourceful"
+  },
+  {
+    "question": "Which word best means 'to control and make use of natural resources'?",
+    "choices": ["harness", "yield", "hazard", "forage"],
+    "answer": "harness"
+  },
+  {
+    "question": "Which word best means 'a postulated sequence of events'?",
+    "choices": ["scenario", "column", "metropolis", "criteria"],
+    "answer": "scenario"
+  },
+  {
+    "question": "Which word best means 'based on guessing or opinions without all the facts'?",
+    "choices": ["speculative", "cognitive", "terrestrial", "benign"],
+    "answer": "speculative"
+  },
+  {
+    "question": "Which phrase best means 'to help to explain something'?",
+    "choices": ["shed light on", "dispose of", "counteract", "neutralize"],
+    "answer": "shed light on"
+  },
+  {
+    "question": "Which word best means 'a thing necessary for the achievement of an end'?",
+    "choices": ["requisite", "column", "scenario", "metropolis"],
+    "answer": "requisite"
+  },
+  {
+    "question": "Which word best means 'to continue violently or with great force'?",
+    "choices": ["rage", "upset", "tally", "knit"],
+    "answer": "rage"
+  },
+  {
+    "question": "Which word best means 'to put something at risk of being lost'?",
+    "choices": ["hazard", "yield", "allocate", "substitute"],
+    "answer": "hazard"
+  },
+  {
+    "question": "Which word best means 'harmful'?",
+    "choices": ["detrimental", "benign", "cognitive", "resourceful"],
+    "answer": "detrimental"
+  },
+  {
+    "question": "Which word best means 'to use something instead of another'?",
+    "choices": ["substitute", "allocate", "harness", "yield"],
+    "answer": "substitute"
+  },
+  {
+    "question": "Which word best means 'to search widely for food'?",
+    "choices": ["forage", "germinate", "muse", "secrete"],
+    "answer": "forage"
+  },
+  {
+    "question": "Which word best means 'relating to cognition'?",
+    "choices": ["cognitive", "synthetic", "pretentious", "deliberate"],
+    "answer": "cognitive"
+  },
+  {
+    "question": "Which word best means 'a large important city'?",
+    "choices": ["metropolis", "column", "scenario", "requisite"],
+    "answer": "metropolis"
+  },
+  {
+    "question": "Which word best means 'standing out so as to be clearly visible'?",
+    "choices": ["conspicuous", "idle", "feign", "nuanced"],
+    "answer": "conspicuous"
+  },
+  {
+    "question": "Which word best means 'to produce or deliver a result'?",
+    "choices": ["yield", "hazard", "tally", "knit"],
+    "answer": "yield"
+  },
+  {
+    "question": "Which word best means 'to match or agree with something else'?",
+    "choices": ["tally", "rage", "upset", "improvise"],
+    "answer": "tally"
+  },
+  {
+    "question": "Which word best means 'to think about something carefully for a long time'?",
+    "choices": ["muse", "contemplate", "feign", "console"],
+    "answer": "muse"
+  },
+  {
+    "question": "Which word best means 'to join together'?",
+    "choices": ["knit", "rage", "upset", "tally"],
+    "answer": "knit"
+  },
+  {
+    "question": "Which word best means 'not working or being used'?",
+    "choices": ["idle", "conspicuous", "pretentious", "deliberate"],
+    "answer": "idle"
+  },
+  {
+    "question": "Which word best means 'to pretend to have a particular feeling'?",
+    "choices": ["feign", "console", "lament", "counteract"],
+    "answer": "feign"
+  },
+  {
+    "question": "Which word best means 'to invent something at the time it is needed'?",
+    "choices": ["improvise", "choreograph", "secrete", "germinate"],
+    "answer": "improvise"
+  },
+  {
+    "question": "Which word best means 'to plan the movements for a dance'?",
+    "choices": ["choreograph", "console", "lament", "neutralize"],
+    "answer": "choreograph"
+  },
+  {
+    "question": "Which word best means 'made slightly different in appearance or meaning'?",
+    "choices": ["nuanced", "synthetic", "cognitive", "terrestrial"],
+    "answer": "nuanced"
+  },
+  {
+    "question": "Which word best means 'trying to appear more important than you are'?",
+    "choices": ["pretentious", "resourceful", "deliberate", "conspicuous"],
+    "answer": "pretentious"
+  },
+  {
+    "question": "Which word best means 'characterized by careful and thorough consideration'?",
+    "choices": ["deliberate", "benign", "detrimental", "speculative"],
+    "answer": "deliberate"
+  },
+  {
+    "question": "Which word best means 'to make someone feel better by giving comfort'?",
+    "choices": ["console", "lament", "counteract", "neutralize"],
+    "answer": "console"
+  },
+  {
+    "question": "Which word best means 'a standard by which you judge or decide'?",
+    "choices": ["criteria", "column", "scenario", "metropolis"],
+    "answer": "criteria"
+  },
+  {
+    "question": "Which word best means 'to express regret or disappointment'?",
+    "choices": ["lament", "feign", "muse", "contemplate"],
+    "answer": "lament"
+  },
+  {
+    "question": "Which word best means 'to reduce the effect of something unwanted'?",
+    "choices": ["counteract", "neutralize", "harness", "yield"],
+    "answer": "counteract"
+  },
+  {
+    "question": "Which word best means 'to stop something from having an effect'?",
+    "choices": ["neutralize", "counteract", "substitute", "forage"],
+    "answer": "neutralize"
+  }
+]
+}
