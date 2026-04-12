@@ -120,7 +120,10 @@ function showExamQuestion() {
   const alreadyAnswered = userAnswers.hasOwnProperty(examIndex);
   const userChoice = userAnswers[examIndex];
 
-  q.choices.forEach(choice => {
+  // Shuffle a copy of choices so original data is not modified
+  const shuffledChoices = [...q.choices].sort(() => Math.random() - 0.5);
+  
+  shuffledChoices.forEach(choice => {
     const btn = document.createElement("button");
     btn.textContent = choice;
     btn.className = "choice-btn";
