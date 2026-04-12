@@ -68,6 +68,11 @@ async function startExam() {
   }
 
   examData = await res.json();
+  // Shuffle choices once per question
+  examData.questions.forEach(q => {
+    q.shuffledChoices = [...q.choices].sort(() => Math.random() - 0.5);
+  });
+  
   examIndex = 0;
   userAnswers = {};
   timeLeft = examData.time_limit_minutes * 60;
@@ -120,10 +125,7 @@ function showExamQuestion() {
   const alreadyAnswered = userAnswers.hasOwnProperty(examIndex);
   const userChoice = userAnswers[examIndex];
 
-  // Shuffle a copy of choices so original data is not modified
-  const shuffledChoices = [...q.choices].sort(() => Math.random() - 0.5);
-  
-  shuffledChoices.forEach(choice => {
+  q.shuffledChoices.forEach(choice => {
     const btn = document.createElement("button");
     btn.textContent = choice;
     btn.className = "choice-btn";
